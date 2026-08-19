@@ -1,191 +1,373 @@
-IyBVU0IgR2FkZ2V0IE1hbmFnZXIgLSBVQ0kgQ29uZmlndXJhdGlvbiBHdWlk
-ZQoKVW5pdmVyc2FsIFVTQiBHYWRnZXQgTWFuYWdlciBmb3IgT3BlbldydCB1
-c2luZyBjb25maWdmcyBpbnRlcmZhY2UuCgojIyBRdWljayBTdGFydAoKYGBg
-YmFzaAojIFZpZXcgY3VycmVudCBjb25maWd1cmF0aW9uCnVjaSBzaG93IHVz
-YmdhZGdldAoKIyBFbmFibGUvc3RhcnQgdGhlIHNlcnZpY2UKL2V0Yy9pbml0
-LmQvdXNiLWdhZGdldCBlbmFibGUKL2V0Yy9pbml0LmQvdXNiLWdhZGdldCBz
-dGFydAoKIyBDaGVjayBzdGF0dXMKL2V0Yy9pbml0LmQvdXNiLWdhZGdldCBz
-dGF0dXMKYGBgCgojIyBDb25maWd1cmF0aW9uIEZpbGUKCkxvY2F0aW9uOiBg
-L2V0Yy9jb25maWcvdXNiZ2FkZ2V0YAoKIyMgQ29tbW9uIFRhc2tzCgojIyMg
-RW5hYmxlL0Rpc2FibGUgVVNCIEdhZGdldCBNb2RlCgpgYGBiYXNoCiMgRGlz
-YWJsZSBnYWRnZXQgKGVuYWJsZSBob3N0IG1vZGUgLSBmb3IgVVNCIHN0b3Jh
-Z2UsIGV0Yy4pCnVjaSBzZXQgdXNiZ2FkZ2V0LnVzYi5lbmFibGVkPScwJwp1
-Y2kgY29tbWl0IHVzYmdhZGdldAovZXRjL2luaXQuZC91c2ItZ2FkZ2V0IHJl
-c3RhcnQKCiMgRW5hYmxlIGdhZGdldCBtb2RlCnVjaSBzZXQgdXNiZ2FkZ2V0
-LnVzYi5lbmFibGVkPScxJwp1Y2kgY29tbWl0IHVzYmdhZGdldAovZXRjL2lu
-aXQuZC91c2ItZ2FkZ2V0IHJlc3RhcnQKYGBgCgojIyMgTmV0d29yayBGdW5j
-dGlvbnMKCiMjIyMgUk5ESVMgKFdpbmRvd3MgRXRoZXJuZXQpCgpgYGBiYXNo
-CiMgRW5hYmxlIFJORElTCnVjaSBzZXQgdXNiZ2FkZ2V0LnJuZGlzLmVuYWJs
-ZWQ9JzEnCnVjaSBjb21taXQgdXNiZ2FkZ2V0Ci9ldGMvaW5pdC5kL3VzYi1n
-YWRnZXQgcmVzdGFydApgYGAKCioqQ29tcGF0aWJsZSB3aXRoOioqIFdpbmRv
-d3MgKGFsbCB2ZXJzaW9ucywgcGx1Zy1hbmQtcGxheSkKCiMjIyMgRUNNICht
-YWNPUy9MaW51eCBFdGhlcm5ldCkKCmBgYGJhc2gKIyBFbmFibGUgRUNNCnVj
-aSBzZXQgdXNiZ2FkZ2V0LmVjbS5lbmFibGVkPScxJwp1Y2kgc2V0IHVzYmdh
-ZGdldC5ybmRpcy5lbmFibGVkPScwJyAgIyBEaXNhYmxlIFJORElTCnVjaSBj
-b21taXQgdXNiZ2FkZ2V0Ci9ldGMvaW5pdC5kL3VzYi1nYWRnZXQgcmVzdGFy
-dApgYGAKCioqQ29tcGF0aWJsZSB3aXRoOioqIG1hY09TIOKJpDEwLjE0LCBM
-aW51eCAoYWxsKQoKIyMjIyBOQ00gKE1vZGVybiBIaWdoLVBlcmZvcm1hbmNl
-IEV0aGVybmV0KQoKYGBgYmFzaAojIEVuYWJsZSBOQ00gKGJlc3QgcGVyZm9y
-bWFuY2UpCnVjaSBzZXQgdXNiZ2FkZ2V0Lm5jbS5lbmFibGVkPScxJwp1Y2kg
-c2V0IHVzYmdhZGdldC5ybmRpcy5lbmFibGVkPScwJyAgIyBEaXNhYmxlIFJO
-RElTCnVjaSBzZXQgdXNiZ2FkZ2V0LmVjbS5lbmFibGVkPScwJyAgICAgIyBE
-aXNhYmxlIEVDTQp1Y2kgY29tbWl0IHVzYmdhZGdldAovZXRjL2luaXQuZC91
-c2ItZ2FkZ2V0IHJlc3RhcnQKYGBgCgoqKkNvbXBhdGlibGUgd2l0aDoqKiBX
-aW5kb3dzIDExKywgbWFjT1Mg4omlMTAuMTUsIExpbnV4IChhbGwpCgoqKk5v
-dGU6KiogTmV0d29yayBpbnRlcmZhY2VzIGFyZSBhdXRvbWF0aWNhbGx5IGFk
-ZGVkIHRvIHRoZSBMQU4gYnJpZGdlLgoKIyMjIFNlcmlhbCBDb25zb2xlIChB
-Q00pCgojIyMjIEVuYWJsZSBTZXJpYWwgQ29uc29sZSB3aXRoIExvZ2luIFNo
-ZWxsCgpgYGBiYXNoCiMgRW5hYmxlIEFDTSB3aXRoIHNoZWxsIGFjY2Vzcwp1
-Y2kgc2V0IHVzYmdhZGdldC5hY20uZW5hYmxlZD0nMScKdWNpIHNldCB1c2Jn
-YWRnZXQuYWNtLnNoZWxsPScxJwp1Y2kgY29tbWl0IHVzYmdhZGdldAovZXRj
-L2luaXQuZC91c2ItZ2FkZ2V0IHJlc3RhcnQKCiMgQWNjZXNzIGZyb20gaG9z
-dDoKIyBMaW51eC9tYWNPUzogc2NyZWVuIC9kZXYvdHR5QUNNMCAxMTUyMDAK
-IyBXaW5kb3dzOiBVc2UgUHVUVFkgb3Igc2ltaWxhciBvbiBDT014IHBvcnQK
-YGBgCgojIyMjIEVuYWJsZSBSYXcgVFRZIChObyBTaGVsbCkKCmBgYGJhc2gK
-IyBFbmFibGUgQUNNIHdpdGhvdXQgc2hlbGwgKHJhdyBzZXJpYWwgcG9ydCkK
-dWNpIHNldCB1c2JnYWRnZXQuYWNtLmVuYWJsZWQ9JzEnCnVjaSBzZXQgdXNi
-Z2FkZ2V0LmFjbS5zaGVsbD0nMCcKdWNpIGNvbW1pdCB1c2JnYWRnZXQKL2V0
-Yy9pbml0LmQvdXNiLWdhZGdldCByZXN0YXJ0CmBgYAoKIyMjIE1hc3MgU3Rv
-cmFnZSAoVU1TKQoKYGBgYmFzaAojIEVuYWJsZSBVU0IgbWFzcyBzdG9yYWdl
-CnVjaSBzZXQgdXNiZ2FkZ2V0LnVtcy5lbmFibGVkPScxJwp1Y2kgc2V0IHVz
-YmdhZGdldC51bXMuaW1hZ2VfcGF0aD0nL3Zhci9saWIvdXNiLWdhZGdldC9z
-dG9yYWdlLmltZycKdWNpIHNldCB1c2JnYWRnZXQudW1zLmltYWdlX3NpemU9
-JzFHJwp1Y2kgc2V0IHVzYmdhZGdldC51bXMucmVhZG9ubHk9JzAnICAjIDA9
-cmVhZC13cml0ZSwgMT1yZWFkLW9ubHkKdWNpIGNvbW1pdCB1c2JnYWRnZXQK
-L2V0Yy9pbml0LmQvdXNiLWdhZGdldCByZXN0YXJ0CmBgYAoKKipOb3RlOioq
-IEltYWdlIGZpbGUgaXMgY3JlYXRlZCBhdXRvbWF0aWNhbGx5IG9uIGZpcnN0
-IHVzZS4KCiMjIyBEZXZpY2UgSW5mb3JtYXRpb24KCmBgYGJhc2gKIyBDaGFu
-Z2UgVVNCIHZlbmRvci9wcm9kdWN0IG5hbWUKdWNpIHNldCB1c2JnYWRnZXQu
-dXNiLm1hbnVmYWN0dXJlcj0nTXlDb21wYW55Jwp1Y2kgc2V0IHVzYmdhZGdl
-dC51c2IucHJvZHVjdD0nTXkgVVNCIERldmljZScKdWNpIGNvbW1pdCB1c2Jn
-YWRnZXQKL2V0Yy9pbml0LmQvdXNiLWdhZGdldCByZXN0YXJ0CgojIENoYW5n
-ZSBVU0IgSURzIChhZHZhbmNlZCkKdWNpIHNldCB1c2JnYWRnZXQudXNiLnZl
-bmRvcl9pZD0nMHgxMjM0Jwp1Y2kgc2V0IHVzYmdhZGdldC51c2IucHJvZHVj
-dF9pZD0nMHg1Njc4Jwp1Y2kgY29tbWl0IHVzYmdhZGdldAovZXRjL2luaXQu
-ZC91c2ItZ2FkZ2V0IHJlc3RhcnQKYGBgCgojIyMgQ3VzdG9tIEdhZGdldCBO
-YW1lCgpgYGBiYXNoCiMgQ2hhbmdlIGludGVybmFsIGdhZGdldCBuYW1lIChv
-cHRpb25hbCkKdWNpIHNldCB1c2JnYWRnZXQudXNiLmdhZGdldF9uYW1lPSdt
-eS1kZXZpY2UnCnVjaSBjb21taXQgdXNiZ2FkZ2V0Ci9ldGMvaW5pdC5kL3Vz
-Yi1nYWRnZXQgcmVzdGFydApgYGAKCiMjIENvbW1vbiBTY2VuYXJpb3MKCiMj
-IyBTY2VuYXJpbyAxOiBRdWljayBOZXR3b3JrIEFjY2VzcyAoV2luZG93cyBQ
-QykKCmBgYGJhc2gKdWNpIHNldCB1c2JnYWRnZXQudXNiLmVuYWJsZWQ9JzEn
-CnVjaSBzZXQgdXNiZ2FkZ2V0LnJuZGlzLmVuYWJsZWQ9JzEnCnVjaSBjb21t
-aXQgdXNiZ2FkZ2V0Ci9ldGMvaW5pdC5kL3VzYi1nYWRnZXQgcmVzdGFydApg
-YGAKCkNvbm5lY3QgVVNCIGNhYmxlLiBXaW5kb3dzIHdpbGwgZGV0ZWN0ICJS
-ZW1vdGUgTkRJUyBDb21wYXRpYmxlIERldmljZSIgYW5kIGdldCBESENQIGZy
-b20gT3BlbldydC4KCiMjIyBTY2VuYXJpbyAyOiBNYXhpbXVtIFBlcmZvcm1h
-bmNlIChNb2Rlcm4gT1MpCgpgYGBiYXNoCnVjaSBzZXQgdXNiZ2FkZ2V0LnVz
-Yi5lbmFibGVkPScxJwp1Y2kgc2V0IHVzYmdhZGdldC5uY20uZW5hYmxlZD0n
-MScKdWNpIHNldCB1c2JnYWRnZXQucm5kaXMuZW5hYmxlZD0nMCcKdWNpIGNv
-bW1pdCB1c2JnYWRnZXQKL2V0Yy9pbml0LmQvdXNiLWdhZGdldCByZXN0YXJ0
-CmBgYAoKIyMjIFNjZW5hcmlvIDM6IFNlcmlhbCBDb25zb2xlICsgTmV0d29y
-awoKYGBgYmFzaAp1Y2kgc2V0IHVzYmdhZGdldC51c2IuZW5hYmxlZD0nMScK
-dWNpIHNldCB1c2JnYWRnZXQucm5kaXMuZW5hYmxlZD0nMScKdWNpIHNldCB1
-c2JnYWRnZXQuYWNtLmVuYWJsZWQ9JzEnCnVjaSBzZXQgdXNiZ2FkZ2V0LmFj
-bS5zaGVsbD0nMScKdWNpIGNvbW1pdCB1c2JnYWRnZXQKL2V0Yy9pbml0LmQv
-dXNiLWdhZGdldCByZXN0YXJ0CmBgYAoKUHJvdmlkZXMgYm90aCBuZXR3b3Jr
-IGFjY2VzcyBhbmQgc2VyaWFsIGNvbnNvbGUgb24gdGhlIHNhbWUgVVNCIGNv
-bm5lY3Rpb24uCgojIyMgU2NlbmFyaW8gNDogVVNCIFN0b3JhZ2UgKyBOZXR3
-b3JrCgpgYGBiYXNoCnVjaSBzZXQgdXNiZ2FkZ2V0LnVzYi5lbmFibGVkPScx
-Jwp1Y2kgc2V0IHVzYmdhZGdldC5ybmRpcy5lbmFibGVkPScxJwp1Y2kgc2V0
-IHVzYmdhZGdldC51bXMuZW5hYmxlZD0nMScKdWNpIHNldCB1c2JnYWRnZXQu
-dW1zLmltYWdlX3NpemU9JzJHJwp1Y2kgY29tbWl0IHVzYmdhZGdldAovZXRj
-L2luaXQuZC91c2ItZ2FkZ2V0IHJlc3RhcnQKYGBgCgojIyMgU2NlbmFyaW8g
-NTogU3dpdGNoIHRvIFVTQiBIb3N0IE1vZGUKCmBgYGJhc2gKIyBEaXNhYmxl
-IGdhZGdldCB0byB1c2UgVVNCIHBvcnQgZm9yIHN0b3JhZ2UsIGV0Yy4KdWNp
-IHNldCB1c2JnYWRnZXQudXNiLmVuYWJsZWQ9JzAnCnVjaSBjb21taXQgdXNi
-Z2FkZ2V0Ci9ldGMvaW5pdC5kL3VzYi1nYWRnZXQgcmVzdGFydApgYGAKCk5v
-dyB5b3UgY2FuIGNvbm5lY3QgVVNCIHN0b3JhZ2UgZGV2aWNlcyB0byB0aGUg
-T3BlbldydCBkZXZpY2UuCgojIyBTZXJ2aWNlIE1hbmFnZW1lbnQKCmBgYGJh
-c2gKIyBTdGFydAovZXRjL2luaXQuZC91c2ItZ2FkZ2V0IHN0YXJ0CgojIFN0
-b3AKL2V0Yy9pbml0LmQvdXNiLWdhZGdldCBzdG9wCgojIFJlc3RhcnQgKGFw
-cGxpZXMgbmV3IGNvbmZpZ3VyYXRpb24pCi9ldGMvaW5pdC5kL3VzYi1nYWRn
-ZXQgcmVzdGFydAoKIyBTdGF0dXMKL2V0Yy9pbml0LmQvdXNiLWdhZGdldCBz
-dGF0dXMKCiMgRW5hYmxlIG9uIGJvb3QKL2V0Yy9pbml0LmQvdXNiLWdhZGdl
-dCBlbmFibGUKCiMgRGlzYWJsZSBvbiBib290Ci9ldGMvaW5pdC5kL3VzYi1n
-YWRnZXQgZGlzYWJsZQpgYGAKCiMjIFZpZXdpbmcgQ29uZmlndXJhdGlvbgoK
-YGBgYmFzaAojIFZpZXcgYWxsIHNldHRpbmdzCnVjaSBzaG93IHVzYmdhZGdl
-dAoKIyBWaWV3IHNwZWNpZmljIHNlY3Rpb24KdWNpIHNob3cgdXNiZ2FkZ2V0
-LnVzYgp1Y2kgc2hvdyB1c2JnYWRnZXQucm5kaXMKdWNpIHNob3cgdXNiZ2Fk
-Z2V0LmFjbQoKIyBFeHBvcnQgdG8gZmlsZQp1Y2kgZXhwb3J0IHVzYmdhZGdl
-dCA+IC90bXAvdXNiZ2FkZ2V0LWJhY2t1cC5jb25mCgojIEltcG9ydCBmcm9t
-IGZpbGUKdWNpIGltcG9ydCB1c2JnYWRnZXQgPCAvdG1wL3VzYmdhZGdldC1i
-YWNrdXAuY29uZgpgYGAKCiMjIFRyb3VibGVzaG9vdGluZwoKIyMjIENoZWNr
-IGlmIGdhZGdldCBpcyBhY3RpdmUKCmBgYGJhc2gKL2V0Yy9pbml0LmQvdXNi
-LWdhZGdldCBzdGF0dXMKYGBgCgojIyMgVmlldyBsb2dzCgpgYGBiYXNoCmxv
-Z3JlYWQgfCBncmVwIHVzYi1nYWRnZXQKYGBgCgojIyMgQ2hlY2sgVVNCIGNv
-bnRyb2xsZXIKCmBgYGJhc2gKbHMgL3N5cy9jbGFzcy91ZGMvCiMgU2hvdWxk
-IHNob3c6IGNpX2hkcmMuMCAoTVNNODkxNiksIDIwOTgwMDAwLnVzYiAoUlBp
-KSwgZXRjLgpgYGAKCiMjIyBWZXJpZnkgbmV0d29yayBpbnRlcmZhY2UKCmBg
-YGJhc2gKaXAgbGluayBzaG93CiMgTG9vayBmb3I6IHVzYjAsIHVzYjEsIGV0
-Yy4KCiMgQ2hlY2sgaWYgYWRkZWQgdG8gYnJpZGdlCnVjaSBzaG93IG5ldHdv
-cmsuQGRldmljZVswXS5wb3J0cwpgYGAKCiMjIyBSZXNldCB0byBkZWZhdWx0
-cwoKYGBgYmFzaApybSAvZXRjL2NvbmZpZy91c2JnYWRnZXQKL2V0Yy9pbml0
-LmQvdXNiLWdhZGdldCByZXN0YXJ0CmBgYAoKVGhpcyB3aWxsIHJlY3JlYXRl
-IHRoZSBjb25maWcgd2l0aCBkZWZhdWx0IHZhbHVlcy4KCiMjIyBDb21tb24g
-SXNzdWVzCgoqKiJObyBVREMgZGV2aWNlIGZvdW5kIioqCi0gVVNCIGdhZGdl
-dCBrZXJuZWwgc3VwcG9ydCBub3QgZW5hYmxlZAotIEluc3RhbGw6IAogIC0g
-YG9wa2cgaW5zdGFsbCBrbW9kLXVzYi1nYWRnZXQga21vZC11c2ItY29uZmln
-ZnNgCiAgLSBgYXBrIGFkZCBrbW9kLXVzYi1nYWRnZXQga21vZC11c2ItY29u
-ZmlnZnNgCgoqKiJ0dHlHUzAgbm90IGZvdW5kIioqCi0gQUNNIGZ1bmN0aW9u
-IHRha2VzIH4xMCBzZWNvbmRzIHRvIGluaXRpYWxpemUKLSBDaGVjazogYGxz
-IC1sIC9kZXYvdHR5R1MwYAoKKipOZXR3b3JrIG5vdCB3b3JraW5nKioKLSBW
-ZXJpZnkgZnVuY3Rpb24gaXMgZW5hYmxlZDogYHVjaSBzaG93IHVzYmdhZGdl
-dC5ybmRpcy5lbmFibGVkYAotIENoZWNrIGlmIGludGVyZmFjZSBleGlzdHM6
-IGBpcCBsaW5rIHNob3cgdXNiMGAKLSBWZXJpZnkgYnJpZGdlOiBgYnJjdGwg
-c2hvdyBici1sYW5gCgojIyBIYXJkd2FyZSBDb21wYXRpYmlsaXR5CgoqKkF1
-dG8tZGV0ZWN0cyBVU0IgY29udHJvbGxlciBvbjoqKgotIFJhc3BiZXJyeSBQ
-aSAoYWxsIG1vZGVscyB3aXRoIFVTQiBPVEcpCi0gUXVhbGNvbW0gTVNNODkx
-Ni9NU004OXh4IGRldmljZXMKLSBPcmFuZ2UgUGksIEJhbmFuYSBQaQotIEFu
-eSBkZXZpY2Ugd2l0aCBVU0IgZ2FkZ2V0IGtlcm5lbCBzdXBwb3J0CgoqKk5v
-IGhhcmR3YXJlLXNwZWNpZmljIGNvbmZpZ3VyYXRpb24gbmVlZGVkISoqCgoj
-IyBBZHZhbmNlZDogTWFudWFsIFVEQyBTZWxlY3Rpb24KCklmIGF1dG8tZGV0
-ZWN0aW9uIGZhaWxzOgoKYGBgYmFzaAojIENoZWNrIGF2YWlsYWJsZSBVREMK
-bHMgL3N5cy9jbGFzcy91ZGMvCgojIFNldCBtYW51YWxseQp1Y2kgc2V0IHVz
-YmdhZGdldC51c2IudWRjX2RldmljZT0nY2lfaGRyYy4wJyAgIyBFeGFtcGxl
-CnVjaSBjb21taXQgdXNiZ2FkZ2V0Ci9ldGMvaW5pdC5kL3VzYi1nYWRnZXQg
-cmVzdGFydApgYGAKCiMjIENvbmZpZ3VyYXRpb24gUmVmZXJlbmNlCgojIyMg
-RGV2aWNlIFNlY3Rpb24gKGBjb25maWcgZGV2aWNlICd1c2InYCkKCnwgT3B0
-aW9uIHwgRGVmYXVsdCB8IERlc2NyaXB0aW9uIHwKfC0tLS0tLS0tfC0tLS0t
-LS0tLXwtLS0tLS0tLS0tLS0tfAp8IGBlbmFibGVkYCB8IGAxYCB8IEVuYWJs
-ZS9kaXNhYmxlIGdhZGdldCAoMD1ob3N0IG1vZGUsIDE9ZGV2aWNlIG1vZGUp
-IHwKfCBgZ2FkZ2V0X25hbWVgIHwgYGcxYCB8IEludGVybmFsIGdhZGdldCBu
-YW1lIChhbnkgc3RyaW5nKSB8CnwgYHZlbmRvcl9pZGAgfCBgMHgxZDZiYCB8
-IFVTQiBWZW5kb3IgSUQgKExpbnV4IEZvdW5kYXRpb24pIHwKfCBgcHJvZHVj
-dF9pZGAgfCBgMHgwMTA0YCB8IFVTQiBQcm9kdWN0IElEIChNdWx0aWZ1bmN0
-aW9uIENvbXBvc2l0ZSkgfAp8IGBkZXZpY2VfdmVyc2lvbmAgfCBgMHgwMTAw
-YCB8IERldmljZSB2ZXJzaW9uIChCQ0QgZm9ybWF0KSB8CnwgYG1hbnVmYWN0
-dXJlcmAgfCBgT3BlbldydGAgfCBNYW51ZmFjdHVyZXIgc3RyaW5nIHNob3du
-IHRvIGhvc3QgfAp8IGBwcm9kdWN0YCB8IGBVU0IgR2FkZ2V0YCB8IFByb2R1
-Y3Qgc3RyaW5nIHNob3duIHRvIGhvc3QgfAp8IGB1ZGNfZGV2aWNlYCB8IF8o
-ZW1wdHkpXyB8IFVEQyBkZXZpY2UgbmFtZSAoYXV0by1kZXRlY3QgaWYgZW1w
-dHkpIHwKCiMjIyBGdW5jdGlvbiBTZWN0aW9ucwoKRWFjaCBmdW5jdGlvbiBo
-YXM6Ci0gYGVuYWJsZWRgOiBgMGAgb3IgYDFgCi0gYGRlc2NyaXB0aW9uYDog
-SHVtYW4tcmVhZGFibGUgZGVzY3JpcHRpb24gKG5vdCB1c2VkIGJ5IHN5c3Rl
-bSkKCiMjIyMgUk5ESVMgRnVuY3Rpb24gKGBjb25maWcgZnVuY3Rpb24gJ3Ju
-ZGlzJ2ApCk5vIGFkZGl0aW9uYWwgb3B0aW9ucy4KCiMjIyMgRUNNIEZ1bmN0
-aW9uIChgY29uZmlnIGZ1bmN0aW9uICdlY20nYCkKTm8gYWRkaXRpb25hbCBv
-cHRpb25zLgoKIyMjIyBOQ00gRnVuY3Rpb24gKGBjb25maWcgZnVuY3Rpb24g
-J25jbSdgKQpObyBhZGRpdGlvbmFsIG9wdGlvbnMuCgojIyMjIEFDTSBGdW5j
-dGlvbiAoYGNvbmZpZyBmdW5jdGlvbiAnYWNtJ2ApCi0gYHNoZWxsYDogYDBg
-IG9yIGAxYCAtIEVuYWJsZSBsb2dpbiBzaGVsbCBvbiBzZXJpYWwgY29uc29s
-ZQoKIyMjIyBVTVMgRnVuY3Rpb24gKGBjb25maWcgZnVuY3Rpb24gJ3Vtcydg
-KQotIGBpbWFnZV9wYXRoYDogUGF0aCB0byBpbWFnZSBmaWxlCi0gYGltYWdl
-X3NpemVgOiBTaXplIHdoZW4gY3JlYXRpbmcgKGUuZy4sIGA1MTJNYCwgYDFH
-YCwgYDJHYCkKLSBgcmVhZG9ubHlgOiBgMGAgKHJlYWQtd3JpdGUpIG9yIGAx
-YCAocmVhZC1vbmx5KQoKIyMgVGlwcwoKLSAqKk11bHRpcGxlIGZ1bmN0aW9u
-czoqKiBZb3UgY2FuIGVuYWJsZSBtdWx0aXBsZSBmdW5jdGlvbnMgc2ltdWx0
-YW5lb3VzbHkgKGUuZy4sIFJORElTICsgQUNNKQotICoqTmV0d29yayBwcmlv
-cml0eToqKiBPbmx5IG9uZSBuZXR3b3JrIGZ1bmN0aW9uIHNob3VsZCBiZSBl
-bmFibGVkIGF0IGEgdGltZSAoUk5ESVMsIEVDTSwgb3IgTkNNKQotICoqU2Vy
-aWFsIG51bWJlcjoqKiBBdXRvLWdlbmVyYXRlZCBmcm9tIGAvZXRjL21hY2hp
-bmUtaWRgIGZvciB1bmlxdWVuZXNzCi0gKipNQUMgYWRkcmVzc2VzOioqIEF1
-dG8tZ2VuZXJhdGVkIGRldGVybWluaXN0aWNhbGx5IChzYW1lIGRldmljZSA9
-IHNhbWUgTUFDcykKLSAqKlN0b3JhZ2UgcGVyc2lzdGVuY2U6KiogVU1TIGlt
-YWdlIHBlcnNpc3RzIGFjcm9zcyByZWJvb3RzIChpbiBgL3ZhcmAgd2hpY2gg
-aXMgYC90bXBgKQoKIyMgTGVhcm4gTW9yZQoKLSBPcGVuV3J0IFVTQiBHYWRn
-ZXQ6IGh0dHBzOi8vb3BlbndydC5vcmcvZG9jcy9ndWlkZS11c2VyL2hhcmR3
-YXJlL3VzYl9nYWRnZXQKLSBMaW51eCBVU0IgR2FkZ2V0IEFQSTogaHR0cHM6
-Ly93d3cua2VybmVsLm9yZy9kb2MvaHRtbC9sYXRlc3QvdXNiL2dhZGdldF9j
-b25maWdmcy5odG1sCi0gVUNJIERvY3VtZW50YXRpb246IGh0dHBzOi8vb3Bl
-bndydC5vcmcvZG9jcy9ndWlkZS11c2VyL2Jhc2Utc3lzdGVtL3VjaQo=
+# USB Gadget Manager - UCI Configuration Guide
+
+Universal USB Gadget Manager for OpenWrt using configfs interface.
+
+## Quick Start
+
+```bash
+# View current configuration
+uci show usbgadget
+
+# Enable/start the service
+/etc/init.d/usb-gadget enable
+/etc/init.d/usb-gadget start
+
+# Check status
+/etc/init.d/usb-gadget status
+```
+
+## Configuration File
+
+Location: `/etc/config/usbgadget`
+
+## Common Tasks
+
+### Enable/Disable USB Gadget Mode
+
+```bash
+# Disable gadget (enable host mode - for USB storage, etc.)
+uci set usbgadget.usb.enabled='0'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+
+# Enable gadget mode
+uci set usbgadget.usb.enabled='1'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+### Network Functions
+
+#### RNDIS (Windows Ethernet)
+
+```bash
+# Enable RNDIS
+uci set usbgadget.rndis.enabled='1'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+**Compatible with:** Windows (all versions, plug-and-play)
+
+#### ECM (macOS/Linux Ethernet)
+
+```bash
+# Enable ECM
+uci set usbgadget.ecm.enabled='1'
+uci set usbgadget.rndis.enabled='0'  # Disable RNDIS
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+**Compatible with:** macOS ≤10.14, Linux (all)
+
+#### NCM (Modern High-Performance Ethernet)
+
+```bash
+# Enable NCM (best performance)
+uci set usbgadget.ncm.enabled='1'
+uci set usbgadget.rndis.enabled='0'  # Disable RNDIS
+uci set usbgadget.ecm.enabled='0'     # Disable ECM
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+**Compatible with:** Windows 11+, macOS ≥10.15, Linux (all)
+
+**Note:** Network interfaces are automatically added to the LAN bridge.
+
+### Serial Console (ACM)
+
+#### Enable Serial Console with Login Shell
+
+```bash
+# Enable ACM with shell access
+uci set usbgadget.acm.enabled='1'
+uci set usbgadget.acm.shell='1'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+
+# Access from host:
+# Linux/macOS: screen /dev/ttyACM0 115200
+# Windows: Use PuTTY or similar on COMx port
+```
+
+#### Enable Raw TTY (No Shell)
+
+```bash
+# Enable ACM without shell (raw serial port)
+uci set usbgadget.acm.enabled='1'
+uci set usbgadget.acm.shell='0'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+### Mass Storage (UMS)
+
+```bash
+# Enable USB mass storage
+uci set usbgadget.ums.enabled='1'
+uci set usbgadget.ums.image_path='/var/lib/usb-gadget/storage.img'
+uci set usbgadget.ums.image_size='1G'
+uci set usbgadget.ums.readonly='0'  # 0=read-write, 1=read-only
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+**Note:** Image file is created automatically on first use.
+
+### Device Information
+
+```bash
+# Change USB vendor/product name
+uci set usbgadget.usb.manufacturer='MyCompany'
+uci set usbgadget.usb.product='My USB Device'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+
+# Change USB IDs (advanced)
+uci set usbgadget.usb.vendor_id='0x1234'
+uci set usbgadget.usb.product_id='0x5678'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+### Custom Gadget Name
+
+```bash
+# Change internal gadget name (optional)
+uci set usbgadget.usb.gadget_name='my-device'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+## Common Scenarios
+
+### Scenario 1: Quick Network Access (Windows PC)
+
+```bash
+uci set usbgadget.usb.enabled='1'
+uci set usbgadget.rndis.enabled='1'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+Connect USB cable. Windows will detect "Remote NDIS Compatible Device" and get DHCP from OpenWrt.
+
+### Scenario 2: Maximum Performance (Modern OS)
+
+```bash
+uci set usbgadget.usb.enabled='1'
+uci set usbgadget.ncm.enabled='1'
+uci set usbgadget.rndis.enabled='0'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+### Scenario 3: Serial Console + Network
+
+```bash
+uci set usbgadget.usb.enabled='1'
+uci set usbgadget.rndis.enabled='1'
+uci set usbgadget.acm.enabled='1'
+uci set usbgadget.acm.shell='1'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+Provides both network access and serial console on the same USB connection.
+
+### Scenario 4: USB Storage + Network
+
+```bash
+uci set usbgadget.usb.enabled='1'
+uci set usbgadget.rndis.enabled='1'
+uci set usbgadget.ums.enabled='1'
+uci set usbgadget.ums.image_size='2G'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+### Scenario 5: Switch to USB Host Mode
+
+```bash
+# Disable gadget to use USB port for storage, etc.
+uci set usbgadget.usb.enabled='0'
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+Now you can connect USB storage devices to the OpenWrt device.
+
+## Service Management
+
+```bash
+# Start
+/etc/init.d/usb-gadget start
+
+# Stop
+/etc/init.d/usb-gadget stop
+
+# Restart (applies new configuration)
+/etc/init.d/usb-gadget restart
+
+# Status
+/etc/init.d/usb-gadget status
+
+# Enable on boot
+/etc/init.d/usb-gadget enable
+
+# Disable on boot
+/etc/init.d/usb-gadget disable
+```
+
+## Viewing Configuration
+
+```bash
+# View all settings
+uci show usbgadget
+
+# View specific section
+uci show usbgadget.usb
+uci show usbgadget.rndis
+uci show usbgadget.acm
+
+# Export to file
+uci export usbgadget > /tmp/usbgadget-backup.conf
+
+# Import from file
+uci import usbgadget < /tmp/usbgadget-backup.conf
+```
+
+## Troubleshooting
+
+### Check if gadget is active
+
+```bash
+/etc/init.d/usb-gadget status
+```
+
+### View logs
+
+```bash
+logread | grep usb-gadget
+```
+
+### Check USB controller
+
+```bash
+ls /sys/class/udc/
+# Should show: ci_hdrc.0 (MSM8916), 20980000.usb (RPi), etc.
+```
+
+### Verify network interface
+
+```bash
+ip link show
+# Look for: usb0, usb1, etc.
+
+# Check if added to bridge
+uci show network.@device[0].ports
+```
+
+### Reset to defaults
+
+```bash
+rm /etc/config/usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+This will recreate the config with default values.
+
+### Common Issues
+
+**"No UDC device found"**
+- USB gadget kernel support not enabled
+- Install: 
+  - `opkg install kmod-usb-gadget kmod-usb-configfs`
+  - `apk add kmod-usb-gadget kmod-usb-configfs`
+
+**"ttyGS0 not found"**
+- ACM function takes ~10 seconds to initialize
+- Check: `ls -l /dev/ttyGS0`
+
+**Network not working**
+- Verify function is enabled: `uci show usbgadget.rndis.enabled`
+- Check if interface exists: `ip link show usb0`
+- Verify bridge: `brctl show br-lan`
+
+## Hardware Compatibility
+
+**Auto-detects USB controller on:**
+- Raspberry Pi (all models with USB OTG)
+- Qualcomm MSM8916/MSM89xx devices
+- Orange Pi, Banana Pi
+- Any device with USB gadget kernel support
+
+**No hardware-specific configuration needed!**
+
+## Advanced: Manual UDC Selection
+
+If auto-detection fails:
+
+```bash
+# Check available UDC
+ls /sys/class/udc/
+
+# Set manually
+uci set usbgadget.usb.udc_device='ci_hdrc.0'  # Example
+uci commit usbgadget
+/etc/init.d/usb-gadget restart
+```
+
+## Configuration Reference
+
+### Device Section (`config device 'usb'`)
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `enabled` | `1` | Enable/disable gadget (0=host mode, 1=device mode) |
+| `gadget_name` | `g1` | Internal gadget name (any string) |
+| `vendor_id` | `0x1d6b` | USB Vendor ID (Linux Foundation) |
+| `product_id` | `0x0104` | USB Product ID (Multifunction Composite) |
+| `device_version` | `0x0100` | Device version (BCD format) |
+| `manufacturer` | `OpenWrt` | Manufacturer string shown to host |
+| `product` | `USB Gadget` | Product string shown to host |
+| `udc_device` | _(empty)_ | UDC device name (auto-detect if empty) |
+
+### Function Sections
+
+Each function has:
+- `enabled`: `0` or `1`
+- `description`: Human-readable description (not used by system)
+
+#### RNDIS Function (`config function 'rndis'`)
+No additional options.
+
+#### ECM Function (`config function 'ecm'`)
+No additional options.
+
+#### NCM Function (`config function 'ncm'`)
+No additional options.
+
+#### ACM Function (`config function 'acm'`)
+- `shell`: `0` or `1` - Enable login shell on serial console
+
+#### UMS Function (`config function 'ums'`)
+- `image_path`: Path to image file
+- `image_size`: Size when creating (e.g., `512M`, `1G`, `2G`)
+- `readonly`: `0` (read-write) or `1` (read-only)
+
+## Tips
+
+- **Multiple functions:** You can enable multiple functions simultaneously (e.g., RNDIS + ACM)
+- **Network priority:** Only one network function should be enabled at a time (RNDIS, ECM, or NCM)
+- **Serial number:** Auto-generated from `/etc/machine-id` for uniqueness
+- **MAC addresses:** Auto-generated deterministically (same device = same MACs)
+- **Storage persistence:** UMS image persists across reboots (in `/var` which is `/tmp`)
+
+## Learn More
+
+- OpenWrt USB Gadget: https://openwrt.org/docs/guide-user/hardware/usb_gadget
+- Linux USB Gadget API: https://www.kernel.org/doc/html/latest/usb/gadget_configfs.html
+- UCI Documentation: https://openwrt.org/docs/guide-user/base-system/uci

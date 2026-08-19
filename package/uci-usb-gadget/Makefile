@@ -1,41 +1,88 @@
-IyBTUERYLUxpY2Vuc2UtSWRlbnRpZmllcjogR1BMLTIuMC1vbmx5CgppbmNs
-dWRlICQoVE9QRElSKS9ydWxlcy5tawoKUEtHX05BTUU6PXVjaS11c2ItZ2Fk
-Z2V0ClBLR19WRVJTSU9OOj0xLjAuMApQS0dfUkVMRUFTRTo9MQoKUEtHX0xJ
-Q0VOU0U6PUdQTC0yLjAtb25seQpQS0dfTUFJTlRBSU5FUjo9TWlndWVsIEZ1
-ZXJ0ZXMgPGhrZnVlcnRlc0BnbWFpbC5jb20+CgppbmNsdWRlICQoSU5DTFVE
-RV9ESVIpL3BhY2thZ2UubWsKCmRlZmluZSBCdWlsZC9QcmVwYXJlCglta2Rp
-ciAtcCAkKFBLR19CVUlMRF9ESVIpCmVuZGVmCgpkZWZpbmUgQnVpbGQvQ29t
-cGlsZQplbmRlZgoKZGVmaW5lIFBhY2thZ2UvJChQS0dfTkFNRSkKCVNFQ1RJ
-T046PXV0aWxzCglDQVRFR09SWTo9VXRpbGl0aWVzCglUSVRMRTo9VUNJLWJh
-c2VkIFVTQiBnYWRnZXQgbWFuYWdlcgoJREVQRU5EUzo9QFVTQl9HQURHRVRf
-U1VQUE9SVCBcCgkJK2ttb2QtZnMtY29uZmlnZnMgXAoJCStrbW9kLXVzYi1n
-YWRnZXQgXAoJCStrbW9kLXVzYi1saWItY29tcG9zaXRlIFwKCQkra21vZC11
-c2ItZ2FkZ2V0LXNlcmlhbCBcCgkJK2ttb2QtdXNiLWdhZGdldC1tYXNzLXN0
-b3JhZ2UgXAoJCStrbW9kLXVzYi1nYWRnZXQtbmNtIFwKCQkrY29yZXV0aWxz
-LXRydW5jYXRlIFwKCQkrY29yZXV0aWxzLXNodWYgXAoJCStjb3JldXRpbHMt
-ZGQKCVBLR0FSQ0g6PWFsbAplbmRlZgoKZGVmaW5lIFBhY2thZ2UvJChQS0df
-TkFNRSkvZGVzY3JpcHRpb24KCVVDSS1iYXNlZCBVU0IgZ2FkZ2V0IG1hbmFn
-ZXIgdXNpbmcgdGhlIGtlcm5lbCBjb25maWdmcyBpbnRlcmZhY2UuCgoJQ29u
-ZmlndXJlcyBPcGVuV3J0IGRldmljZXMgYXMgVVNCIHBlcmlwaGVyYWxzIChS
-TkRJUywgRUNNLCBOQ00sIEFDTSwKCU1hc3MgU3RvcmFnZSkgd2hlbiBjb25u
-ZWN0ZWQgdG8gYSBob3N0LiBIYXJkd2FyZS1hZ25vc3RpYzogYXV0by1kZXRl
-Y3RzCgl0aGUgVURDIGNvbnRyb2xsZXIgYW5kIGludGVncmF0ZXMgVVNCIGV0
-aGVybmV0IGludGVyZmFjZXMgaW50byB0aGUgTEFOIGJyaWRnZS4KZW5kZWYK
-CmRlZmluZSBQYWNrYWdlLyQoUEtHX05BTUUpL2NvbmZmaWxlcwovZXRjL2Nv
-bmZpZy91c2JnYWRnZXQKZW5kZWYKCmRlZmluZSBQYWNrYWdlLyQoUEtHX05B
-TUUpL2luc3RhbGwKCSQoSU5TVEFMTF9ESVIpICQoMSkvdXNyL3NiaW4KCSQo
-SU5TVEFMTF9CSU4pIC4vZmlsZXMvdXNiLWdhZGdldC5zaCAkKDEpL3Vzci9z
-YmluL3VzYi1nYWRnZXQKCSQoSU5TVEFMTF9ESVIpICQoMSkvZXRjL2luaXQu
-ZAoJJChJTlNUQUxMX0JJTikgLi9maWxlcy91c2ItZ2FkZ2V0LmluaXQgJCgx
-KS9ldGMvaW5pdC5kL3VzYi1nYWRnZXQKCSQoSU5TVEFMTF9ESVIpICQoMSkv
-ZXRjL3JjLmQKCSQoTE4pIC4uL2luaXQuZC91c2ItZ2FkZ2V0ICQoMSkvZXRj
-L3JjLmQvUzk5dXNiLWdhZGdldAoJJChJTlNUQUxMX0RJUikgJCgxKS9ldGMv
-Y29uZmlnCgkkKElOU1RBTExfQ09ORikgLi9maWxlcy91c2JnYWRnZXQuY29u
-ZmlnICQoMSkvZXRjL2NvbmZpZy91c2JnYWRnZXQKZW5kZWYKCmRlZmluZSBQ
-YWNrYWdlLyQoUEtHX05BTUUpL3Bvc3RpbnN0CiMhL2Jpbi9zaApbIC1uICIk
-JHtJUEtHX0lOU1RST09UfSIgXSB8fCB7CgkvZXRjL2luaXQuZC91c2ItZ2Fk
-Z2V0IGVuYWJsZQp9CmV4aXQgMAplbmRlZgoKZGVmaW5lIFBhY2thZ2UvJChQ
-S0dfTkFNRSkvcHJlcm0KIyEvYmluL3NoClsgLW4gIiQke0lQS0dfSU5TVFJP
-T1R9IiBdIHx8IHsKCS9ldGMvaW5pdC5kL3VzYi1nYWRnZXQgc3RvcAoJL2V0
-Yy9pbml0LmQvdXNiLWdhZGdldCBkaXNhYmxlCn0KZXhpdCAwCmVuZGVmCgok
-KGV2YWwgJChjYWxsIEJ1aWxkUGFja2FnZSwkKFBLR19OQU1FKSkpCg==
+include $(TOPDIR)/rules.mk
+
+PKG_NAME:=uci-usb-gadget
+PKG_VERSION:=1.0.0
+PKG_RELEASE:=1
+
+PKG_MAINTAINER:=Miguel Fuertes <hkfuertes@gmail.com>
+PKG_LICENSE:=GPL-2.0-only
+
+include $(INCLUDE_DIR)/package.mk
+
+define Package/$(PKG_NAME)
+  SECTION:=utils
+  CATEGORY:=Utilities
+  TITLE:=UCI-based USB Gadget Manager for OpenWrt
+	DEPENDS:=@USB_GADGET_SUPPORT +kmod-fs-configfs +kmod-usb-gadget +kmod-usb-lib-composite +kmod-usb-gadget-serial +kmod-usb-gadget-mass-storage +kmod-usb-gadget-ncm +coreutils-truncate +coreutils-shuf +coreutils-dd
+  PKGARCH:=all
+endef
+
+define Package/$(PKG_NAME)/description
+  UCI-based USB Gadget Manager for OpenWrt using the kernel configfs interface.
+  
+  Provides easy configuration and management of USB gadget functions through UCI,
+  making OpenWrt devices appear as various USB peripherals when connected to a host.
+  
+  Supported functions:
+   - RNDIS: Windows-compatible USB ethernet (plug-and-play)
+   - ECM: CDC Ethernet for macOS and Linux
+   - NCM: Modern high-performance USB ethernet
+   - ACM: Serial console (with optional login shell)
+   - Mass Storage: Expose storage image as USB drive
+  
+  Features:
+   - Hardware-agnostic: auto-detects UDC controller (works on Raspberry Pi, MSM8916,
+     Orange Pi, and any device with USB gadget support)
+   - Network integration: automatically adds USB ethernet interfaces to LAN bridge
+   - Configurable via UCI: /etc/config/usbgadget
+   - Persistent serial numbers based on machine-id
+   - Deterministic MAC address generation
+  
+  Perfect for creating USB-based network access, serial consoles, or mass storage
+  devices from OpenWrt routers and embedded devices.
+endef
+
+
+define Package/$(PKG_NAME)/conffiles
+/etc/config/usbgadget
+endef
+
+define Build/Compile
+endef
+
+define Package/$(PKG_NAME)/install
+	# Install main script
+	$(INSTALL_DIR) $(1)/usr/sbin
+	$(INSTALL_BIN) ./files/usb-gadget.sh $(1)/usr/sbin/usb-gadget
+	
+	# Install init script
+	$(INSTALL_DIR) $(1)/etc/init.d
+	$(INSTALL_BIN) ./files/usb-gadget.init $(1)/etc/init.d/usb-gadget
+	
+	# Install UCI config
+	$(INSTALL_DIR) $(1)/etc/config
+	$(INSTALL_CONF) ./files/usbgadget.config $(1)/etc/config/usbgadget
+endef
+
+define Package/$(PKG_NAME)/postinst
+#!/bin/sh
+[ -n "$${IPKG_INSTROOT}" ] || {
+	# Enable service on first install
+	/etc/init.d/usb-gadget enable
+	echo "USB Gadget service installed. Configure in /etc/config/usbgadget"
+	echo "Start with: /etc/init.d/usb-gadget start"
+}
+exit 0
+endef
+
+define Package/$(PKG_NAME)/prerm
+#!/bin/sh
+[ -n "$${IPKG_INSTROOT}" ] || {
+	# Stop and disable service before removal
+	/etc/init.d/usb-gadget stop
+	/etc/init.d/usb-gadget disable
+}
+exit 0
+endef
+
+$(eval $(call BuildPackage,$(PKG_NAME)))

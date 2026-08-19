@@ -1,141 +1,162 @@
-J3VzZSBzdHJpY3QnOwoncmVxdWlyZSB2aWV3JzsKJ3JlcXVpcmUgZm9ybSc7
-CidyZXF1aXJlIHVjaSc7CidyZXF1aXJlIGZzJzsKJ3JlcXVpcmUgdWknOwoK
-cmV0dXJuIHZpZXcuZXh0ZW5kKHsKICAgIGxvYWQ6IGZ1bmN0aW9uKCkgewog
-ICAgICAgIHJldHVybiBQcm9taXNlLmFsbChbCiAgICAgICAgICAgIHVjaS5s
-b2FkKCd1c2JnYWRnZXQnKSwKICAgICAgICAgICAgTC5yZXNvbHZlRGVmYXVs
-dChmcy5saXN0KCcvc3lzL2NsYXNzL3VkYycpLCBbXSkKICAgICAgICBdKTsK
-ICAgIH0sCgogICAgcmVuZGVyOiBmdW5jdGlvbihkYXRhKSB7CiAgICAgICAg
-dmFyIHVkY19kZXZpY2VzID0gZGF0YVsxXTsKICAgICAgICB2YXIgbSwgcywg
-bzsKCiAgICAgICAgbSA9IG5ldyBmb3JtLk1hcCgndXNiZ2FkZ2V0JywgCiAg
-ICAgICAgICAgIF8oJ1VTQiBHYWRnZXQgQ29uZmlndXJhdGlvbicpLAogICAg
-ICAgICAgICBfKCdDb25maWd1cmUgVVNCIGdhZGdldCBmdW5jdGlvbnMuIENo
-YW5nZXMgdGFrZSBlZmZlY3QgYWZ0ZXIgc2F2aW5nIGFuZCByZXN0YXJ0aW5n
-IHRoZSBzZXJ2aWNlLicpKTsKCiAgICAgICAgLy8gPT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT0KICAgICAgICAvLyBEZXZpY2UgU2V0dGluZ3MKICAgICAgICAvLyA9
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PQogICAgICAgIHMgPSBtLnNlY3Rpb24oZm9y
-bS5UeXBlZFNlY3Rpb24sICdkZXZpY2UnLCBfKCdEZXZpY2UgU2V0dGluZ3Mn
-KSk7CiAgICAgICAgcy5hbm9ueW1vdXMgPSB0cnVlOwogICAgICAgIHMuYWRk
-cmVtb3ZlID0gZmFsc2U7CgogICAgICAgIG8gPSBzLm9wdGlvbihmb3JtLkZs
-YWcsICdlbmFibGVkJywgXygnRW5hYmxlIFVTQiBHYWRnZXQnKSk7CiAgICAg
-ICAgby5kZXNjcmlwdGlvbiA9IF8oJ0Rpc2FibGUgdG8gdXNlIFVTQiBwb3J0
-IGluIGhvc3QgbW9kZS4nKSArICc8YnI+JyArCiAgICAgICAgICAgICc8c3Ry
-b25nPicgKyBfKCdFbnN1cmUgYWx0ZXJuYXRpdmUgYWNjZXNzLicpICsgJzwv
-c3Ryb25nPic7CiAgICAgICAgby5ybWVtcHR5ID0gZmFsc2U7CgogICAgICAg
-IG8gPSBzLm9wdGlvbihmb3JtLlZhbHVlLCAnZ2FkZ2V0X25hbWUnLCBfKCdH
-YWRnZXQgTmFtZScpKTsKICAgICAgICBvLnBsYWNlaG9sZGVyID0gJ2cxJzsK
-CiAgICAgICAgbyA9IHMub3B0aW9uKGZvcm0uVmFsdWUsICdtYW51ZmFjdHVy
-ZXInLCBfKCdNYW51ZmFjdHVyZXInKSk7CiAgICAgICAgby5wbGFjZWhvbGRl
-ciA9ICdPcGVuV3J0JzsKCiAgICAgICAgbyA9IHMub3B0aW9uKGZvcm0uVmFs
-dWUsICdwcm9kdWN0JywgXygnUHJvZHVjdCcpKTsKICAgICAgICBvLnBsYWNl
-aG9sZGVyID0gJ1VTQiBHYWRnZXQnOwoKICAgICAgICBvID0gcy5vcHRpb24o
-Zm9ybS5WYWx1ZSwgJ3ZlbmRvcl9pZCcsIF8oJ1ZlbmRvciBJRCcpKTsKICAg
-ICAgICBvLnBsYWNlaG9sZGVyID0gJzB4MWQ2Yic7CiAgICAgICAgby52YWxp
-ZGF0ZSA9IGZ1bmN0aW9uKHNlY3Rpb25faWQsIHZhbHVlKSB7CiAgICAgICAg
-ICAgIGlmICh2YWx1ZSAmJiAhL14weFswLTlhLWZBLUZdezR9JC8udGVzdCh2
-YWx1ZSkpCiAgICAgICAgICAgICAgICByZXR1cm4gXygnTXVzdCBiZSBoZXgg
-Zm9ybWF0OiAweDEyMzQnKTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAg
-ICAgICAgfTsKCiAgICAgICAgbyA9IHMub3B0aW9uKGZvcm0uVmFsdWUsICdw
-cm9kdWN0X2lkJywgXygnUHJvZHVjdCBJRCcpKTsKICAgICAgICBvLnBsYWNl
-aG9sZGVyID0gJzB4MDEwNCc7CiAgICAgICAgby52YWxpZGF0ZSA9IGZ1bmN0
-aW9uKHNlY3Rpb25faWQsIHZhbHVlKSB7CiAgICAgICAgICAgIGlmICh2YWx1
-ZSAmJiAhL14weFswLTlhLWZBLUZdezR9JC8udGVzdCh2YWx1ZSkpCiAgICAg
-ICAgICAgICAgICByZXR1cm4gXygnTXVzdCBiZSBoZXggZm9ybWF0OiAweDEy
-MzQnKTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfTsKCiAg
-ICAgICAgaWYgKHVkY19kZXZpY2VzLmxlbmd0aCA+IDApIHsKICAgICAgICAg
-ICAgbyA9IHMub3B0aW9uKGZvcm0uTGlzdFZhbHVlLCAndWRjX2RldmljZScs
-IF8oJ1VEQyBEZXZpY2UnKSk7CiAgICAgICAgICAgIG8udmFsdWUoJycsIF8o
-J0F1dG8tZGV0ZWN0JykpOwogICAgICAgICAgICB1ZGNfZGV2aWNlcy5mb3JF
-YWNoKGZ1bmN0aW9uKGRldikgewogICAgICAgICAgICAgICAgby52YWx1ZShk
-ZXYubmFtZSwgZGV2Lm5hbWUpOwogICAgICAgICAgICB9KTsKICAgICAgICB9
-CgogICAgICAgIC8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiAgICAgICAgLy8g
-Uk5ESVMKICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQogICAgICAg
-IHMgPSBtLnNlY3Rpb24oZm9ybS5OYW1lZFNlY3Rpb24sICdybmRpcycsICdm
-dW5jdGlvbicsIAogICAgICAgICAgICBfKCdSTkRJUyAoV2luZG93cyBFdGhl
-cm5ldCknKSwKICAgICAgICAgICAgXygnV2luZG93cy1jb21wYXRpYmxlIFVT
-QiBldGhlcm5ldC4gV29ya3Mgb24gYWxsIFdpbmRvd3MgdmVyc2lvbnMuJykp
-OwoKICAgICAgICBvID0gcy5vcHRpb24oZm9ybS5GbGFnLCAnZW5hYmxlZCcs
-IF8oJ0VuYWJsZSBSTkRJUycpLAogICAgICAgICAgICBfKCdQbHVnLWFuZC1w
-bGF5IG9uIFdpbmRvd3MuIEF1dG9tYXRpY2FsbHkgYWRkcyB0byBMQU4gYnJp
-ZGdlLicpKTsKICAgICAgICBvLnJtZW1wdHkgPSBmYWxzZTsKCiAgICAgICAg
-Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT0KICAgICAgICAvLyBFQ00KICAgICAg
-ICAvLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PQogICAgICAgIHMgPSBtLnNlY3Rp
-b24oZm9ybS5OYW1lZFNlY3Rpb24sICdlY20nLCAnZnVuY3Rpb24nLCAKICAg
-ICAgICAgICAgXygnRUNNIChtYWNPUy9MaW51eCBFdGhlcm5ldCknKSwKICAg
-ICAgICAgICAgXygnRm9yIG1hY09TIOKJpDEwLjE0IGFuZCBMaW51eC4gRG8g
-bm90IGVuYWJsZSB3aXRoIE5DTS4nKSk7CgogICAgICAgIG8gPSBzLm9wdGlv
-bihmb3JtLkZsYWcsICdlbmFibGVkJywgXygnRW5hYmxlIEVDTScpLAogICAg
-ICAgICAgICBfKCdDREMgRXRoZXJuZXQgZm9yIG1hY09TIGFuZCBMaW51eC4g
-RGlzYWJsZSBSTkRJUyB3aGVuIHVzaW5nLicpKTsKICAgICAgICBvLnJtZW1w
-dHkgPSBmYWxzZTsKCiAgICAgICAgLy8gPT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K
-ICAgICAgICAvLyBOQ00KICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PQogICAgICAgIHMgPSBtLnNlY3Rpb24oZm9ybS5OYW1lZFNlY3Rpb24sICdu
-Y20nLCAnZnVuY3Rpb24nLCAKICAgICAgICAgICAgXygnTkNNIChNb2Rlcm4g
-RXRoZXJuZXQpJyksCiAgICAgICAgICAgIF8oJ0Jlc3QgcGVyZm9ybWFuY2Uu
-IEZvciBXaW5kb3dzIDExKywgbWFjT1Mg4omlMTAuMTUsIExpbnV4LicpKTsK
-CiAgICAgICAgbyA9IHMub3B0aW9uKGZvcm0uRmxhZywgJ2VuYWJsZWQnLCBf
-KCdFbmFibGUgTkNNJyksCiAgICAgICAgICAgIF8oJ01vZGVybiBoaWdoLXNw
-ZWVkIFVTQiBldGhlcm5ldC4gQmVzdCBjaG9pY2UgZm9yIG5ldyBzeXN0ZW1z
-LicpKTsKICAgICAgICBvLnJtZW1wdHkgPSBmYWxzZTsKCiAgICAgICAgLy8g
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT0KICAgICAgICAvLyBBQ00gU2VyaWFsCiAg
-ICAgICAgLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICAgICAgICBzID0gbS5z
-ZWN0aW9uKGZvcm0uTmFtZWRTZWN0aW9uLCAnYWNtJywgJ2Z1bmN0aW9uJywg
-CiAgICAgICAgICAgIF8oJ0FDTSAoU2VyaWFsIENvbnNvbGUpJyksCiAgICAg
-ICAgICAgIF8oJ1Byb3ZpZGVzIC9kZXYvdHR5QUNNMCBvbiBob3N0LiBBY2Nl
-c3M6IHNjcmVlbiAvZGV2L3R0eUFDTTAgMTE1MjAwJykpOwoKICAgICAgICBv
-ID0gcy5vcHRpb24oZm9ybS5GbGFnLCAnZW5hYmxlZCcsIF8oJ0VuYWJsZSBT
-ZXJpYWwgQ29uc29sZScpKTsKICAgICAgICBvLnJtZW1wdHkgPSBmYWxzZTsK
-CiAgICAgICAgbyA9IHMub3B0aW9uKGZvcm0uRmxhZywgJ3NoZWxsJywgXygn
-RW5hYmxlIExvZ2luIFNoZWxsJyksCiAgICAgICAgICAgIF8oJ1Byb3ZpZGUg
-c2hlbGwgYWNjZXNzLiBEaXNhYmxlIGZvciByYXcgVFRZLicpKTsKICAgICAg
-ICBvLmRlZmF1bHQgPSAnMSc7CgogICAgICAgIG8gPSBzLm9wdGlvbihmb3Jt
-LkR1bW15VmFsdWUsICdfaW5mbycsIF8oJ0Nvbm5lY3Rpb24gSW5mbycpKTsK
-ICAgICAgICBvLnJhd2h0bWwgPSB0cnVlOwogICAgICAgIG8uY2ZndmFsdWUg
-PSBmdW5jdGlvbigpIHsKICAgICAgICAgICAgcmV0dXJuICc8c3Ryb25nPkxp
-bnV4L21hY09TOjwvc3Ryb25nPiBzY3JlZW4gL2Rldi90dHlBQ00wIDExNTIw
-MDxicj4nICsKICAgICAgICAgICAgICAgICAgICc8c3Ryb25nPldpbmRvd3M6
-PC9zdHJvbmc+IFVzZSBQdVRUWSBvbiBDT00gcG9ydCc7CiAgICAgICAgfTsK
-CiAgICAgICAgLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICAgICAgICAvLyBN
-YXNzIFN0b3JhZ2UKICAgICAgICAvLyA9PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQog
-ICAgICAgIHMgPSBtLnNlY3Rpb24oZm9ybS5OYW1lZFNlY3Rpb24sICd1bXMn
-LCAnZnVuY3Rpb24nLCAKICAgICAgICAgICAgXygnTWFzcyBTdG9yYWdlJyks
-CiAgICAgICAgICAgIF8oJ0V4cG9zZSBzdG9yYWdlIGltYWdlIGFzIFVTQiBk
-cml2ZS4gRG9lcyBub3QgcHJvdmlkZSBhY2Nlc3MgdG8gdGhlIGRldmljZS4n
-KSk7CgogICAgICAgIG8gPSBzLm9wdGlvbihmb3JtLkZsYWcsICdlbmFibGVk
-JywgXygnRW5hYmxlIE1hc3MgU3RvcmFnZScpKTsKICAgICAgICBvLnJtZW1w
-dHkgPSBmYWxzZTsKCiAgICAgICAgbyA9IHMub3B0aW9uKGZvcm0uVmFsdWUs
-ICdpbWFnZV9wYXRoJywgXygnSW1hZ2UgUGF0aCcpLAogICAgICAgICAgICBf
-KCdGaWxlIHdpbGwgYmUgY3JlYXRlZCBhdXRvbWF0aWNhbGx5IGlmIGl0IGRv
-ZXNuXCd0IGV4aXN0LicpKTsKICAgICAgICBvLmRlZmF1bHQgPSAnL3Zhci9s
-aWIvdXNiLWdhZGdldC9zdG9yYWdlLmltZyc7CgogICAgICAgIG8gPSBzLm9w
-dGlvbihmb3JtLlZhbHVlLCAnaW1hZ2Vfc2l6ZScsIF8oJ0ltYWdlIFNpemUn
-KSwKICAgICAgICAgICAgXygnVXNlZCB3aGVuIGNyZWF0aW5nIChlLmcuLCA1
-MTJNLCAxRywgMkcpJykpOwogICAgICAgIG8ucGxhY2Vob2xkZXIgPSAnNTEy
-TSc7CiAgICAgICAgby5kZWZhdWx0ID0gJzUxMk0nOwoKICAgICAgICBvID0g
-cy5vcHRpb24oZm9ybS5GbGFnLCAncmVhZG9ubHknLCBfKCdSZWFkLU9ubHkn
-KSwKICAgICAgICAgICAgXygnTW91bnQgYXMgcmVhZC1vbmx5IG9uIHRoZSBo
-b3N0IGNvbXB1dGVyJykpOwogICAgICAgIG8uZGVmYXVsdCA9ICcwJzsKCiAg
-ICAgICAgcmV0dXJuIG0ucmVuZGVyKCk7CiAgICB9LAoKICAgIGhhbmRsZVNh
-dmVBcHBseTogZnVuY3Rpb24oZXYsIG1vZGUpIHsKICAgICAgICByZXR1cm4g
-dGhpcy5zdXBlcignaGFuZGxlU2F2ZUFwcGx5JywgW2V2LCBtb2RlXSkudGhl
-bihmdW5jdGlvbigpIHsKICAgICAgICAgICAgdWkuYWRkTm90aWZpY2F0aW9u
-KG51bGwsIAogICAgICAgICAgICAgICAgRSgncCcsIF8oJ0NvbmZpZ3VyYXRp
-b24gc2F2ZWQuIFJlc3RhcnRpbmcgVVNCIEdhZGdldCBzZXJ2aWNlLi4uJykp
-LCAKICAgICAgICAgICAgICAgICdpbmZvJyk7CiAgICAgICAgICAgIHJldHVy
-biBmcy5leGVjKCcvZXRjL2luaXQuZC91c2ItZ2FkZ2V0JywgWydyZXN0YXJ0
-J10pLnRoZW4oZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICB1aS5hZGRO
-b3RpZmljYXRpb24obnVsbCwgCiAgICAgICAgICAgICAgICAgICAgRSgncCcs
-IF8oJ1VTQiBHYWRnZXQgc2VydmljZSByZXN0YXJ0ZWQgc3VjY2Vzc2Z1bGx5
-JykpLCAKICAgICAgICAgICAgICAgICAgICAnaW5mbycpOwogICAgICAgICAg
-ICB9KTsKICAgICAgICB9KTsKICAgIH0KfSk7Cgo=
+'use strict';
+'require view';
+'require form';
+'require uci';
+'require fs';
+'require ui';
+
+return view.extend({
+    load: function() {
+        return Promise.all([
+            uci.load('usbgadget'),
+            L.resolveDefault(fs.list('/sys/class/udc'), [])
+        ]);
+    },
+
+    render: function(data) {
+        var udc_devices = data[1];
+        var m, s, o;
+
+        m = new form.Map('usbgadget', 
+            _('USB Gadget Configuration'),
+            _('Configure USB gadget functions. Changes take effect after saving and restarting the service.'));
+
+        // =================================================================
+        // Device Settings
+        // =================================================================
+        s = m.section(form.TypedSection, 'device', _('Device Settings'));
+        s.anonymous = true;
+        s.addremove = false;
+
+        o = s.option(form.Flag, 'enabled', _('Enable USB Gadget'));
+        o.description = _('Disable to use USB port in host mode.') + '<br>' +
+            '<strong>' + _('Ensure alternative access.') + '</strong>';
+        o.rmempty = false;
+
+        o = s.option(form.Value, 'gadget_name', _('Gadget Name'));
+        o.placeholder = 'g1';
+
+        o = s.option(form.Value, 'manufacturer', _('Manufacturer'));
+        o.placeholder = 'OpenWrt';
+
+        o = s.option(form.Value, 'product', _('Product'));
+        o.placeholder = 'USB Gadget';
+
+        o = s.option(form.Value, 'vendor_id', _('Vendor ID'));
+        o.placeholder = '0x1d6b';
+        o.validate = function(section_id, value) {
+            if (value && !/^0x[0-9a-fA-F]{4}$/.test(value))
+                return _('Must be hex format: 0x1234');
+            return true;
+        };
+
+        o = s.option(form.Value, 'product_id', _('Product ID'));
+        o.placeholder = '0x0104';
+        o.validate = function(section_id, value) {
+            if (value && !/^0x[0-9a-fA-F]{4}$/.test(value))
+                return _('Must be hex format: 0x1234');
+            return true;
+        };
+
+        if (udc_devices.length > 0) {
+            o = s.option(form.ListValue, 'udc_device', _('UDC Device'));
+            o.value('', _('Auto-detect'));
+            udc_devices.forEach(function(dev) {
+                o.value(dev.name, dev.name);
+            });
+        }
+
+        // =================================================================
+        // RNDIS
+        // =================================================================
+        s = m.section(form.NamedSection, 'rndis', 'function', 
+            _('RNDIS (Windows Ethernet)'),
+            _('Windows-compatible USB ethernet. Works on all Windows versions.'));
+
+        o = s.option(form.Flag, 'enabled', _('Enable RNDIS'),
+            _('Plug-and-play on Windows. Automatically adds to LAN bridge.'));
+        o.rmempty = false;
+
+        // =================================================================
+        // ECM
+        // =================================================================
+        s = m.section(form.NamedSection, 'ecm', 'function', 
+            _('ECM (macOS/Linux Ethernet)'),
+            _('For macOS ≤10.14 and Linux. Do not enable with NCM.'));
+
+        o = s.option(form.Flag, 'enabled', _('Enable ECM'),
+            _('CDC Ethernet for macOS and Linux. Disable RNDIS when using.'));
+        o.rmempty = false;
+
+        // =================================================================
+        // NCM
+        // =================================================================
+        s = m.section(form.NamedSection, 'ncm', 'function', 
+            _('NCM (Modern Ethernet)'),
+            _('Best performance. For Windows 11+, macOS ≥10.15, Linux.'));
+
+        o = s.option(form.Flag, 'enabled', _('Enable NCM'),
+            _('Modern high-speed USB ethernet. Best choice for new systems.'));
+        o.rmempty = false;
+
+        // =================================================================
+        // ACM Serial
+        // =================================================================
+        s = m.section(form.NamedSection, 'acm', 'function', 
+            _('ACM (Serial Console)'),
+            _('Provides /dev/ttyACM0 on host. Access: screen /dev/ttyACM0 115200'));
+
+        o = s.option(form.Flag, 'enabled', _('Enable Serial Console'));
+        o.rmempty = false;
+
+        o = s.option(form.Flag, 'shell', _('Enable Login Shell'),
+            _('Provide shell access. Disable for raw TTY.'));
+        o.default = '1';
+
+        o = s.option(form.DummyValue, '_info', _('Connection Info'));
+        o.rawhtml = true;
+        o.cfgvalue = function() {
+            return '<strong>Linux/macOS:</strong> screen /dev/ttyACM0 115200<br>' +
+                   '<strong>Windows:</strong> Use PuTTY on COM port';
+        };
+
+        // =================================================================
+        // Mass Storage
+        // =================================================================
+        s = m.section(form.NamedSection, 'ums', 'function', 
+            _('Mass Storage'),
+            _('Expose storage image as USB drive. Does not provide access to the device.'));
+
+        o = s.option(form.Flag, 'enabled', _('Enable Mass Storage'));
+        o.rmempty = false;
+
+        o = s.option(form.Value, 'image_path', _('Image Path'),
+            _('File will be created automatically if it doesn\'t exist.'));
+        o.default = '/var/lib/usb-gadget/storage.img';
+
+        o = s.option(form.Value, 'image_size', _('Image Size'),
+            _('Used when creating (e.g., 512M, 1G, 2G)'));
+        o.placeholder = '512M';
+        o.default = '512M';
+
+        o = s.option(form.Flag, 'readonly', _('Read-Only'),
+            _('Mount as read-only on the host computer'));
+        o.default = '0';
+
+        return m.render();
+    },
+
+    handleSaveApply: function(ev, mode) {
+        return this.super('handleSaveApply', [ev, mode]).then(function() {
+            ui.addNotification(null, 
+                E('p', _('Configuration saved. Restarting USB Gadget service...')), 
+                'info');
+            return fs.exec('/etc/init.d/usb-gadget', ['restart']).then(function() {
+                ui.addNotification(null, 
+                    E('p', _('USB Gadget service restarted successfully')), 
+                    'info');
+            });
+        });
+    }
+});
+

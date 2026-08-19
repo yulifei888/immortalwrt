@@ -1,329 +1,525 @@
-IyEvYmluL3NoCiMgVW5pdmVyc2FsIFVTQiBHYWRnZXQgTWFuYWdlciBmb3Ig
-T3BlbldydAojIENvbXBhdGlibGUgd2l0aCBhc2gvYnVzeWJveCBzaAoKc2V0
-IC1lCgojIExvYWQgVUNJIGxpYnJhcnkKLiAvbGliL2Z1bmN0aW9ucy5zaAoK
-IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgQ29uZmlndXJh
-dGlvbgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCkNGR19F
-TkFCTEVEPSIiCkNGR19HQURHRVRfTkFNRT0iIgpDRkdfR0FER0VUX1BBVEg9
-IiIKQ0ZHX0NPTkZJR19QQVRIPSIiCkNGR19GVU5DVElPTlNfUEFUSD0iIgoK
-Q0ZHX1ZFTkRPUl9JRD0iIgpDRkdfUFJPRFVDVF9JRD0iIgpDRkdfREVWSUNF
-X1ZFUlNJT049IiIKQ0ZHX01BTlVGQUNUVVJFUj0iIgpDRkdfUFJPRFVDVD0i
-IgpDRkdfVURDX0RFVklDRT0iIgoKQ0ZHX1JORElTPSIiCkNGR19FQ009IiIK
-Q0ZHX05DTT0iIgpDRkdfQUNNPSIiCkNGR19VTVM9IiIKCkNGR19BQ01fU0hF
-TEw9IiIKCkNGR19VTVNfSU1BR0U9IiIKQ0ZHX1VNU19TSVpFPSIiCkNGR19V
-TVNfUkVBRE9OTFk9IiIKCmxvYWRfY29uZmlnKCkgewogICAgY29uZmlnX2xv
-YWQgdXNiZ2FkZ2V0CiAgICAKICAgICMgR2xvYmFsIGVuYWJsZS9kaXNhYmxl
-CiAgICBjb25maWdfZ2V0X2Jvb2wgQ0ZHX0VOQUJMRUQgdXNiIGVuYWJsZWQg
-MQogICAgCiAgICAjIEdhZGdldCBuYW1lCiAgICBjb25maWdfZ2V0IENGR19H
-QURHRVRfTkFNRSB1c2IgZ2FkZ2V0X25hbWUgImcxIgogICAgCiAgICAjIFBh
-dGhzCiAgICBDRkdfR0FER0VUX1BBVEg9Ii9zeXMva2VybmVsL2NvbmZpZy91
-c2JfZ2FkZ2V0LyR7Q0ZHX0dBREdFVF9OQU1FfSIKICAgIENGR19DT05GSUdf
-UEFUSD0iJHtDRkdfR0FER0VUX1BBVEh9L2NvbmZpZ3MvYy4xIgogICAgQ0ZH
-X0ZVTkNUSU9OU19QQVRIPSIke0NGR19HQURHRVRfUEFUSH0vZnVuY3Rpb25z
-IgogICAgCiAgICAjIFVTQiBEZXZpY2UgSURzCiAgICBjb25maWdfZ2V0IENG
-R19WRU5ET1JfSUQgdXNiIHZlbmRvcl9pZCAiMHgxZDZiIgogICAgY29uZmln
-X2dldCBDRkdfUFJPRFVDVF9JRCB1c2IgcHJvZHVjdF9pZCAiMHgwMTA0Igog
-ICAgY29uZmlnX2dldCBDRkdfREVWSUNFX1ZFUlNJT04gdXNiIGRldmljZV92
-ZXJzaW9uICIweDAxMDAiCiAgICBjb25maWdfZ2V0IENGR19NQU5VRkFDVFVS
-RVIgdXNiIG1hbnVmYWN0dXJlciAiT3BlbldydCIKICAgIGNvbmZpZ19nZXQg
-Q0ZHX1BST0RVQ1QgdXNiIHByb2R1Y3QgIlVTQiBHYWRnZXQiCiAgICBjb25m
-aWdfZ2V0IENGR19VRENfREVWSUNFIHVzYiB1ZGNfZGV2aWNlICIiCiAgICAK
-ICAgICMgRnVuY3Rpb25zIChib29sZWFuKQogICAgY29uZmlnX2dldF9ib29s
-IENGR19STkRJUyBybmRpcyBlbmFibGVkIDAKICAgIGNvbmZpZ19nZXRfYm9v
-bCBDRkdfRUNNIGVjbSBlbmFibGVkIDAKICAgIGNvbmZpZ19nZXRfYm9vbCBD
-RkdfTkNNIG5jbSBlbmFibGVkIDAKICAgIGNvbmZpZ19nZXRfYm9vbCBDRkdf
-QUNNIGFjbSBlbmFibGVkIDAKICAgIGNvbmZpZ19nZXRfYm9vbCBDRkdfVU1T
-IHVtcyBlbmFibGVkIDAKICAgIAogICAgIyBBQ00gb3B0aW9ucwogICAgY29u
-ZmlnX2dldF9ib29sIENGR19BQ01fU0hFTEwgYWNtIHNoZWxsIDEKICAgIAog
-ICAgIyBVTVMgb3B0aW9ucwogICAgY29uZmlnX2dldCBDRkdfVU1TX0lNQUdF
-IHVtcyBpbWFnZV9wYXRoICIvdmFyL2xpYi91c2ItZ2FkZ2V0L3N0b3JhZ2Uu
-aW1nIgogICAgY29uZmlnX2dldCBDRkdfVU1TX1NJWkUgdW1zIGltYWdlX3Np
-emUgIjUxMk0iCiAgICBjb25maWdfZ2V0X2Jvb2wgQ0ZHX1VNU19SRUFET05M
-WSB1bXMgcmVhZG9ubHkgMAp9CgojID09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT0KIyBMb2dnaW5nCiMgPT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PQoKbG9nKCkgewogICAgbG9nZ2VyIC10IHVzYi1nYWRnZXQgIiQq
-IgogICAgZWNobyAiWyQoZGF0ZSAnKyVIOiVNOiVTJyldICQqIiA+JjIKfQoK
-ZXJyb3IoKSB7CiAgICBsb2cgIkVSUk9SOiAkKiIKICAgIGV4aXQgMQp9Cgoj
-ID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyBVdGlsaXRpZXMK
-IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpnZXRfc2VyaWFs
-X251bWJlcigpIHsKICAgIGlmIFsgLWYgL2V0Yy9tYWNoaW5lLWlkIF07IHRo
-ZW4KICAgICAgICBzaGEyNTZzdW0gPCAvZXRjL21hY2hpbmUtaWQgfCBjdXQg
-LWQnICcgLWYxIHwgY3V0IC1jMS0xNgogICAgICAgIHJldHVybgogICAgZmkK
-ICAgIGVjaG8gIiQoZGF0ZSArJXMpLSQoc2h1ZiAtaSAxMDAwLTk5OTkgLW4g
-MSkiCn0KCmdlbmVyYXRlX21hYygpIHsKICAgIGxvY2FsIHByZWZpeD0iJDEi
-CiAgICBsb2NhbCBzZXJpYWw9IiQoZ2V0X3NlcmlhbF9udW1iZXIpIgogICAg
-bG9jYWwgaGFzaD0iJChlY2hvICIke3NlcmlhbH0ke3ByZWZpeH0iIHwgbWQ1
-c3VtIHwgY3V0IC1jMS0xMikiCiAgICAKICAgICMgRXh0cmFjdCBieXRlcwog
-ICAgbG9jYWwgYjE9IiQoZWNobyAiJGhhc2giIHwgY3V0IC1jMS0yKSIKICAg
-IGxvY2FsIGIyPSIkKGVjaG8gIiRoYXNoIiB8IGN1dCAtYzMtNCkiCiAgICBs
-b2NhbCBiMz0iJChlY2hvICIkaGFzaCIgfCBjdXQgLWM1LTYpIgogICAgbG9j
-YWwgYjQ9IiQoZWNobyAiJGhhc2giIHwgY3V0IC1jNy04KSIKICAgIGxvY2Fs
-IGI1PSIkKGVjaG8gIiRoYXNoIiB8IGN1dCAtYzktMTApIgogICAgbG9jYWwg
-YjY9IiQoZWNobyAiJGhhc2giIHwgY3V0IC1jMTEtMTIpIgogICAgCiAgICAj
-IFNldCBsb2NhbGx5IGFkbWluaXN0ZXJlZCwgdW5pY2FzdAogICAgYjE9IiQo
-cHJpbnRmICclMDJ4JyAkKCgweCR7YjF9ICYgMHhmZSB8IDB4MDIpKSkiCiAg
-ICAKICAgIGVjaG8gIiR7YjF9OiR7YjJ9OiR7YjN9OiR7YjR9OiR7YjV9OiR7
-YjZ9Igp9CgpmaW5kX3VkYygpIHsKICAgICMgUmV0dXJuIGNvbmZpZ3VyZWQg
-VURDIGlmIHNldAogICAgaWYgWyAtbiAiJENGR19VRENfREVWSUNFIiBdOyB0
-aGVuCiAgICAgICAgZWNobyAiJENGR19VRENfREVWSUNFIgogICAgICAgIHJl
-dHVybgogICAgZmkKICAgIAogICAgIyBBdXRvLWRldGVjdCBVREMgLSB3b3Jr
-cyBvbiBBTEwgaGFyZHdhcmUKICAgIGxvY2FsIHVkYz0iJChscyAvc3lzL2Ns
-YXNzL3VkYy8gMj4vZGV2L251bGwgfCBoZWFkIC0xKSIKICAgIAogICAgaWYg
-WyAteiAiJHVkYyIgXTsgdGhlbgogICAgICAgIGVycm9yICJObyBVREMgZGV2
-aWNlIGZvdW5kLiBJcyBVU0IgZ2FkZ2V0IHN1cHBvcnQgZW5hYmxlZD8iCiAg
-ICBmaQogICAgCiAgICBlY2hvICIkdWRjIgp9CgpzeXNmc193cml0ZSgpIHsK
-ICAgIGxvY2FsIHBhdGg9IiQxIgogICAgbG9jYWwgdmFsdWU9IiQyIgogICAg
-ZWNobyAiJHZhbHVlIiA+ICIkcGF0aCIgfHwgZXJyb3IgIkZhaWxlZCB0byB3
-cml0ZSAnJHZhbHVlJyB0byAkcGF0aCIKfQoKIyA9PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09CiMgVVNCIEZ1bmN0aW9ucyBTZXR1cAojID09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT0KCnNldHVwX3JuZGlzKCkgewog
-ICAgbG9nICJFbmFibGluZyBSTkRJUyIKICAgIGxvY2FsIGZ1bmM9IiR7Q0ZH
-X0ZVTkNUSU9OU19QQVRIfS9ybmRpcy51c2IwIgogICAgCiAgICBta2RpciAt
-cCAiJGZ1bmMiCiAgICBzeXNmc193cml0ZSAiJHtmdW5jfS9ob3N0X2FkZHIi
-ICIkKGdlbmVyYXRlX21hYyBybmRpcy1ob3N0KSIKICAgIHN5c2ZzX3dyaXRl
-ICIke2Z1bmN9L2Rldl9hZGRyIiAiJChnZW5lcmF0ZV9tYWMgcm5kaXMtZGV2
-KSIKICAgIGxuIC1zZiAiJGZ1bmMiICIke0NGR19DT05GSUdfUEFUSH0vIgog
-ICAgCiAgICAjIFdpbmRvd3MgY29tcGF0aWJpbGl0eQogICAgc3lzZnNfd3Jp
-dGUgIiR7Q0ZHX0dBREdFVF9QQVRIfS9vc19kZXNjL3VzZSIgIjEiCiAgICBz
-eXNmc193cml0ZSAiJHtDRkdfR0FER0VUX1BBVEh9L29zX2Rlc2MvYl92ZW5k
-b3JfY29kZSIgIjB4Y2QiCiAgICBzeXNmc193cml0ZSAiJHtDRkdfR0FER0VU
-X1BBVEh9L29zX2Rlc2MvcXdfc2lnbiIgIk1TRlQxMDAiCiAgICBzeXNmc193
-cml0ZSAiJHtmdW5jfS9vc19kZXNjL2ludGVyZmFjZS5ybmRpcy9jb21wYXRp
-YmxlX2lkIiAiUk5ESVMiCiAgICBzeXNmc193cml0ZSAiJHtmdW5jfS9vc19k
-ZXNjL2ludGVyZmFjZS5ybmRpcy9zdWJfY29tcGF0aWJsZV9pZCIgIjUxNjIw
-MDEiCiAgICBsbiAtc2YgIiR7Q0ZHX0NPTkZJR19QQVRIfSIgIiR7Q0ZHX0dB
-REdFVF9QQVRIfS9vc19kZXNjLyIKICAgIAogICAgZWNobyAiK1JORElTIgp9
-CgpzZXR1cF9lY20oKSB7CiAgICBsb2cgIkVuYWJsaW5nIEVDTSIKICAgIGxv
-Y2FsIGZ1bmM9IiR7Q0ZHX0ZVTkNUSU9OU19QQVRIfS9lY20udXNiMCIKICAg
-IAogICAgbWtkaXIgLXAgIiRmdW5jIgogICAgc3lzZnNfd3JpdGUgIiR7ZnVu
-Y30vaG9zdF9hZGRyIiAiJChnZW5lcmF0ZV9tYWMgZWNtLWhvc3QpIgogICAg
-c3lzZnNfd3JpdGUgIiR7ZnVuY30vZGV2X2FkZHIiICIkKGdlbmVyYXRlX21h
-YyBlY20tZGV2KSIKICAgIGxuIC1zZiAiJGZ1bmMiICIke0NGR19DT05GSUdf
-UEFUSH0vIgogICAgCiAgICBlY2hvICIrRUNNIgp9CgpzZXR1cF9uY20oKSB7
-CiAgICBsb2cgIkVuYWJsaW5nIE5DTSIKICAgIGxvY2FsIGZ1bmM9IiR7Q0ZH
-X0ZVTkNUSU9OU19QQVRIfS9uY20udXNiMCIKICAgIAogICAgbWtkaXIgLXAg
-IiRmdW5jIgogICAgc3lzZnNfd3JpdGUgIiR7ZnVuY30vaG9zdF9hZGRyIiAi
-JChnZW5lcmF0ZV9tYWMgbmNtLWhvc3QpIgogICAgc3lzZnNfd3JpdGUgIiR7
-ZnVuY30vZGV2X2FkZHIiICIkKGdlbmVyYXRlX21hYyBuY20tZGV2KSIKICAg
-IGxuIC1zZiAiJGZ1bmMiICIke0NGR19DT05GSUdfUEFUSH0vIgogICAgCiAg
-ICBlY2hvICIrTkNNIgp9CgpzZXR1cF9hY20oKSB7CiAgICBsb2cgIkVuYWJs
-aW5nIEFDTSIKICAgIGxvY2FsIGZ1bmM9IiR7Q0ZHX0ZVTkNUSU9OU19QQVRI
-fS9hY20uR1MwIgogICAgCiAgICBta2RpciAtcCAiJGZ1bmMiCiAgICBsbiAt
-c2YgIiRmdW5jIiAiJHtDRkdfQ09ORklHX1BBVEh9LyIKICAgIAogICAgIyBN
-YW5hZ2Ugc2hlbGwgaW4gaW5pdHRhYgogICAgaWYgWyAiJENGR19BQ01fU0hF
-TEwiID0gIjEiIF07IHRoZW4KICAgICAgICBsb2cgIkVuYWJsaW5nIHNlcmlh
-bCBzaGVsbCBvbiB0dHlHUzAiCiAgICAgICAgc2VkIC1pICcvdHR5R1MwL2Qn
-IC9ldGMvaW5pdHRhYgogICAgICAgIGVjaG8gInR0eUdTMDo6YXNrZmlyc3Q6
-L3Vzci9saWJleGVjL2xvZ2luLnNoIiA+PiAvZXRjL2luaXR0YWIKICAgIGVs
-c2UKICAgICAgICBsb2cgIkFDTSBpbiByYXcgVFRZIG1vZGUgKHJlbW92aW5n
-IHNoZWxsIGZyb20gaW5pdHRhYikiCiAgICAgICAgc2VkIC1pICcvdHR5R1Mw
-L2QnIC9ldGMvaW5pdHRhYgogICAgZmkKICAgIAogICAga2lsbCAtSFVQIDEg
-Mj4vZGV2L251bGwgfHwgdHJ1ZQogICAgCiAgICBlY2hvICIrQUNNIgp9Cgpz
-ZXR1cF91bXMoKSB7CiAgICBsb2NhbCBpbWFnZT0iJENGR19VTVNfSU1BR0Ui
-CiAgICAKICAgICMgQ3JlYXRlIGltYWdlIGlmIGRvZXNuJ3QgZXhpc3QKICAg
-IGlmIFsgISAtZiAiJGltYWdlIiBdOyB0aGVuCiAgICAgICAgbG9nICJDcmVh
-dGluZyBzdG9yYWdlIGltYWdlOiAkaW1hZ2UgKCRDRkdfVU1TX1NJWkUpIgog
-ICAgICAgIG1rZGlyIC1wICIkKGRpcm5hbWUgIiRpbWFnZSIpIgogICAgICAg
-IHRydW5jYXRlIC1zICIkQ0ZHX1VNU19TSVpFIiAiJGltYWdlIiB8fCBcCiAg
-ICAgICAgICAgIGRkIGlmPS9kZXYvemVybyBvZj0iJGltYWdlIiBicz0xTSBj
-b3VudD0iJHtDRkdfVU1TX1NJWkUlTX0iCiAgICBmaQogICAgCiAgICBsb2cg
-IkVuYWJsaW5nIFVNUyIKICAgIGxvY2FsIGZ1bmM9IiR7Q0ZHX0ZVTkNUSU9O
-U19QQVRIfS9tYXNzX3N0b3JhZ2UuMCIKICAgIAogICAgbWtkaXIgLXAgIiRm
-dW5jIgogICAgc3lzZnNfd3JpdGUgIiR7ZnVuY30vbHVuLjAvcm8iICIkQ0ZH
-X1VNU19SRUFET05MWSIKICAgIHN5c2ZzX3dyaXRlICIke2Z1bmN9L2x1bi4w
-L2ZpbGUiICIkaW1hZ2UiCiAgICBsbiAtc2YgIiRmdW5jIiAiJHtDRkdfQ09O
-RklHX1BBVEh9LyIKICAgIAogICAgZWNobyAiK1VNUyIKfQoKIyA9PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09CiMgTmV0d29yayBDb25maWd1cmF0
-aW9uCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKYWRkX3Rv
-X2JyaWRnZSgpIHsKICAgIGxvY2FsIGlmbmFtZV9maWxlPSIkMSIKICAgIAog
-ICAgWyAtZiAiJGlmbmFtZV9maWxlIiBdIHx8IHJldHVybgogICAgCiAgICBs
-b2NhbCBpZmFjZT0iJChjYXQgIiRpZm5hbWVfZmlsZSIpIgogICAgbG9nICJB
-ZGRpbmcgJGlmYWNlIHRvIGJyaWRnZSIKICAgIAogICAgIyBBZGQgdGhlIGlu
-dGVmYWNlIHRvIGJyaWRnZQogICAgdWNpIC1xIGRlbF9saXN0ICJuZXR3b3Jr
-LkBkZXZpY2VbMF0ucG9ydHM9JGlmYWNlIiAyPi9kZXYvbnVsbCB8fCB0cnVl
-CiAgICB1Y2kgYWRkX2xpc3QgIm5ldHdvcmsuQGRldmljZVswXS5wb3J0cz0k
-aWZhY2UiCn0KCnNldHVwX25ldHdvcmsoKSB7CiAgICBzbGVlcCAxCiAgICAK
-ICAgIFsgIiRDRkdfUk5ESVMiID0gIjEiIF0gJiYgYWRkX3RvX2JyaWRnZSAi
-JHtDRkdfRlVOQ1RJT05TX1BBVEh9L3JuZGlzLnVzYjAvaWZuYW1lIgogICAg
-WyAiJENGR19FQ00iID0gIjEiIF0gJiYgYWRkX3RvX2JyaWRnZSAiJHtDRkdf
-RlVOQ1RJT05TX1BBVEh9L2VjbS51c2IwL2lmbmFtZSIKICAgIFsgIiRDRkdf
-TkNNIiA9ICIxIiBdICYmIGFkZF90b19icmlkZ2UgIiR7Q0ZHX0ZVTkNUSU9O
-U19QQVRIfS9uY20udXNiMC9pZm5hbWUiCiAgICAKICAgIHVjaSBjb21taXQg
-bmV0d29yawogICAgL2V0Yy9pbml0LmQvbmV0d29yayByZWxvYWQKfQoKIyA9
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgTWFpbiBHYWRnZXQg
-TWFuYWdlbWVudAojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K
-CnNldHVwX2dhZGdldCgpIHsKICAgICMgTG9hZCBjb25maWd1cmF0aW9uCiAg
-ICBsb2FkX2NvbmZpZwogICAgCiAgICAjIENoZWNrIGlmIGdhZGdldCBpcyBl
-bmFibGVkCiAgICBpZiBbICIkQ0ZHX0VOQUJMRUQiICE9ICIxIiBdOyB0aGVu
-CiAgICAgICAgbG9nICJVU0IgR2FkZ2V0IGlzIGRpc2FibGVkIGluIGNvbmZp
-ZyAodXNiLmVuYWJsZWQ9MCkiCiAgICAgICAgbG9nICJVU0IgcG9ydCBhdmFp
-bGFibGUgZm9yIGhvc3QgbW9kZSIKICAgICAgICByZXR1cm4gMAogICAgZmkK
-ICAgIAogICAgbG9nICJTZXR0aW5nIHVwIFVTQiBnYWRnZXQiCiAgICBsb2cg
-IkdhZGdldCBuYW1lOiAkQ0ZHX0dBREdFVF9OQU1FIgogICAgbG9nICJHYWRn
-ZXQgcGF0aDogJENGR19HQURHRVRfUEFUSCIKICAgIAogICAgIyBQcmVwYXJl
-IHN5c3RlbQogICAgbW9kcHJvYmUgbGliY29tcG9zaXRlIHx8IGVycm9yICJG
-YWlsZWQgdG8gbG9hZCBsaWJjb21wb3NpdGUgbW9kdWxlIgogICAgCiAgICBp
-ZiAhIG1vdW50cG9pbnQgLXEgL3N5cy9rZXJuZWwvY29uZmlnOyB0aGVuCiAg
-ICAgICAgbG9nICJNb3VudGluZyBjb25maWdmcyIKICAgICAgICBtb3VudCAt
-dCBjb25maWdmcyBub25lIC9zeXMva2VybmVsL2NvbmZpZwogICAgZmkKICAg
-IAogICAgIyBDcmVhdGUgZ2FkZ2V0IGRpcmVjdG9yeQogICAgbWtkaXIgLXAg
-IiRDRkdfR0FER0VUX1BBVEgiIHx8IGVycm9yICJGYWlsZWQgdG8gY3JlYXRl
-IGdhZGdldCBkaXJlY3RvcnkiCiAgICBjZCAiJENGR19HQURHRVRfUEFUSCIg
-fHwgZXJyb3IgIkNhbm5vdCBjaGFuZ2UgZGlyZWN0b3J5IgogICAgCiAgICAj
-IERldmljZSBkZXNjcmlwdG9ycwogICAgc3lzZnNfd3JpdGUgaWRWZW5kb3Ig
-IiRDRkdfVkVORE9SX0lEIgogICAgc3lzZnNfd3JpdGUgaWRQcm9kdWN0ICIk
-Q0ZHX1BST0RVQ1RfSUQiCiAgICBzeXNmc193cml0ZSBiY2REZXZpY2UgIiRD
-RkdfREVWSUNFX1ZFUlNJT04iCiAgICAKICAgICMgQ29tcG9zaXRlIGRldmlj
-ZSBjbGFzcwogICAgc3lzZnNfd3JpdGUgYkRldmljZUNsYXNzICIweEVGIgog
-ICAgc3lzZnNfd3JpdGUgYkRldmljZVN1YkNsYXNzICIweDAyIgogICAgc3lz
-ZnNfd3JpdGUgYkRldmljZVByb3RvY29sICIweDAxIgogICAgCiAgICAjIFN0
-cmluZ3MgKFVTQiBkZXNjcmlwdG9ycykKICAgIG1rZGlyIC1wIHN0cmluZ3Mv
-MHg0MDkKICAgIHN5c2ZzX3dyaXRlIHN0cmluZ3MvMHg0MDkvc2VyaWFsbnVt
-YmVyICIkKGdldF9zZXJpYWxfbnVtYmVyKSIKICAgIHN5c2ZzX3dyaXRlIHN0
-cmluZ3MvMHg0MDkvbWFudWZhY3R1cmVyICIkQ0ZHX01BTlVGQUNUVVJFUiIK
-ICAgIHN5c2ZzX3dyaXRlIHN0cmluZ3MvMHg0MDkvcHJvZHVjdCAiJENGR19Q
-Uk9EVUNUIgogICAgCiAgICAjIENvbmZpZ3VyYXRpb24KICAgIG1rZGlyIC1w
-ICIke0NGR19DT05GSUdfUEFUSH0vc3RyaW5ncy8weDQwOSIKICAgIAogICAg
-bG9jYWwgY29uZmlnX3N0cmluZz0iIgogICAgbG9jYWwgaGFzX3dha2V1cD0w
-CiAgICAKICAgICMgU2V0dXAgZW5hYmxlZCBmdW5jdGlvbnMgaW4gb3JkZXIK
-ICAgICMgUk5ESVMgbXVzdCBiZSBmaXJzdCBmb3IgV2luZG93cyBjb21wYXRp
-YmlsaXR5CiAgICBpZiBbICIkQ0ZHX1JORElTIiA9ICIxIiBdOyB0aGVuCiAg
-ICAgICAgY29uZmlnX3N0cmluZz0iJHtjb25maWdfc3RyaW5nfSQoc2V0dXBf
-cm5kaXMpIgogICAgICAgIGhhc193YWtldXA9MQogICAgZmkKICAgIAogICAg
-aWYgWyAiJENGR19BQ00iID0gIjEiIF07IHRoZW4KICAgICAgICBjb25maWdf
-c3RyaW5nPSIke2NvbmZpZ19zdHJpbmd9JChzZXR1cF9hY20pIgogICAgZmkK
-ICAgIAogICAgaWYgWyAiJENGR19FQ00iID0gIjEiIF0gJiYgWyAiJENGR19O
-Q00iICE9ICIxIiBdOyB0aGVuCiAgICAgICAgY29uZmlnX3N0cmluZz0iJHtj
-b25maWdfc3RyaW5nfSQoc2V0dXBfZWNtKSIKICAgICAgICBoYXNfd2FrZXVw
-PTEKICAgIGZpCiAgICAKICAgIGlmIFsgIiRDRkdfTkNNIiA9ICIxIiBdOyB0
-aGVuCiAgICAgICAgY29uZmlnX3N0cmluZz0iJHtjb25maWdfc3RyaW5nfSQo
-c2V0dXBfbmNtKSIKICAgICAgICBoYXNfd2FrZXVwPTEKICAgIGZpCiAgICAK
-ICAgIGlmIFsgIiRDRkdfVU1TIiA9ICIxIiBdOyB0aGVuCiAgICAgICAgY29u
-ZmlnX3N0cmluZz0iJHtjb25maWdfc3RyaW5nfSQoc2V0dXBfdW1zKSIKICAg
-IGZpCiAgICAKICAgICMgQ2hlY2sgaWYgYW55IGZ1bmN0aW9uIHdhcyBlbmFi
-bGVkCiAgICBpZiBbIC16ICIkY29uZmlnX3N0cmluZyIgXTsgdGhlbgogICAg
-ICAgIGxvZyAiV0FSTklORzogTm8gVVNCIGZ1bmN0aW9ucyBlbmFibGVkIgog
-ICAgICAgIGxvZyAiRW5hYmxlIGF0IGxlYXN0IG9uZSBmdW5jdGlvbiAocm5k
-aXMsIGVjbSwgbmNtLCBhY20sIG9yIHVtcykiCiAgICAgICAgY2QgL3N5cy9r
-ZXJuZWwvY29uZmlnL3VzYl9nYWRnZXQKICAgICAgICBybWRpciAiJENGR19H
-QURHRVRfTkFNRSIgMj4vZGV2L251bGwgfHwgdHJ1ZQogICAgICAgIHJldHVy
-biAxCiAgICBmaQogICAgCiAgICAjIENvbmZpZ3VyYXRpb24gYXR0cmlidXRl
-cwogICAgaWYgWyAiJGhhc193YWtldXAiID0gIjEiIF07IHRoZW4KICAgICAg
-ICBzeXNmc193cml0ZSAiJHtDRkdfQ09ORklHX1BBVEh9L2JtQXR0cmlidXRl
-cyIgIjB4ZTAiCiAgICBlbHNlCiAgICAgICAgc3lzZnNfd3JpdGUgIiR7Q0ZH
-X0NPTkZJR19QQVRIfS9ibUF0dHJpYnV0ZXMiICIweGMwIgogICAgZmkKICAg
-IAogICAgc3lzZnNfd3JpdGUgIiR7Q0ZHX0NPTkZJR19QQVRIfS9NYXhQb3dl
-ciIgIjI1MCIKICAgIAogICAgIyBTZXQgY29uZmlndXJhdGlvbiBzdHJpbmcg
-KHJlbW92ZSBsZWFkaW5nICspCiAgICBjb25maWdfc3RyaW5nPSIkKGVjaG8g
-IiRjb25maWdfc3RyaW5nIiB8IHNlZCAncy9eKy8vJykiCiAgICBzeXNmc193
-cml0ZSAiJHtDRkdfQ09ORklHX1BBVEh9L3N0cmluZ3MvMHg0MDkvY29uZmln
-dXJhdGlvbiIgIiRjb25maWdfc3RyaW5nIgogICAgCiAgICAjIEZpbmQgYW5k
-IGVuYWJsZSBVREMKICAgIGxvY2FsIHVkYz0iJChmaW5kX3VkYykiCiAgICBs
-b2cgIkVuYWJsaW5nIFVEQzogJHVkYyIKICAgIHN5c2ZzX3dyaXRlIFVEQyAi
-JHVkYyIKICAgIAogICAgIyBXYWl0IGZvciBBQ00gZGV2aWNlIGlmIGVuYWJs
-ZWQKICAgIGlmIFsgIiRDRkdfQUNNIiA9ICIxIiBdOyB0aGVuCiAgICAgICAg
-bG9nICJXYWl0aW5nIGZvciB0dHlHUzAgZGV2aWNlLi4uIgogICAgICAgIGxv
-Y2FsIGk9MAogICAgICAgIHdoaWxlIFsgJGkgLWx0IDEwIF07IGRvCiAgICAg
-ICAgICAgIFsgLWMgL2Rldi90dHlHUzAgXSAmJiBicmVhawogICAgICAgICAg
-ICBzbGVlcCAxCiAgICAgICAgICAgIGk9JCgoaSArIDEpKQogICAgICAgIGRv
-bmUKICAgICAgICAKICAgICAgICBpZiBbICEgLWMgL2Rldi90dHlHUzAgXTsg
-dGhlbgogICAgICAgICAgICBsb2cgIldhcm5pbmc6IC9kZXYvdHR5R1MwIG5v
-dCBmb3VuZCBhZnRlciAxMHMiCiAgICAgICAgZmkKICAgIGZpCiAgICAKICAg
-ICMgQ29uZmlndXJlIG5ldHdvcmsKICAgIHNldHVwX25ldHdvcmsKICAgIAog
-ICAgbG9nICJVU0IgR2FkZ2V0IHNldHVwIGNvbXBsZXRlIgp9Cgp0ZWFyZG93
-bl9nYWRnZXQoKSB7CiAgICBsb2cgIlRlYXJpbmcgZG93biBVU0IgZ2FkZ2V0
-IgogICAgCiAgICAjIExvYWQgY29uZmlnIHRvIGdldCBwYXRocwogICAgbG9h
-ZF9jb25maWcKICAgIAogICAgaWYgWyAhIC1kICIkQ0ZHX0dBREdFVF9QQVRI
-IiBdOyB0aGVuCiAgICAgICAgbG9nICJHYWRnZXQgbm90IGZvdW5kLCBub3Ro
-aW5nIHRvIHRlYXIgZG93biIKICAgICAgICByZXR1cm4KICAgIGZpCiAgICAK
-ICAgIGNkICIkQ0ZHX0dBREdFVF9QQVRIIiB8fCByZXR1cm4KICAgIAogICAg
-IyBEaXNhYmxlIGdhZGdldAogICAgZWNobyAiIiA+IFVEQyAyPi9kZXYvbnVs
-bCB8fCB0cnVlCiAgICAKICAgICMgUmVtb3ZlIGZyb20gbmV0d29yayBicmlk
-Z2UKICAgIGZvciBpZm5hbWUgaW4gZnVuY3Rpb25zLyovaWZuYW1lOyBkbwog
-ICAgICAgIGlmIFsgLWYgIiRpZm5hbWUiIF07IHRoZW4KICAgICAgICAgICAg
-bG9jYWwgaWZhY2U9IiQoY2F0ICIkaWZuYW1lIikiCiAgICAgICAgICAgIHVj
-aSAtcSBkZWxfbGlzdCAibmV0d29yay5AZGV2aWNlWzBdLnBvcnRzPSRpZmFj
-ZSIgMj4vZGV2L251bGwgfHwgdHJ1ZQogICAgICAgIGZpCiAgICBkb25lCiAg
-ICB1Y2kgY29tbWl0IG5ldHdvcmsKICAgIC9ldGMvaW5pdC5kL25ldHdvcmsg
-cmVsb2FkCiAgICAKICAgICMgUmVtb3ZlIGNvbmZpZ3VyYXRpb24gbGlua3MK
-ICAgIHJtIC1mIGNvbmZpZ3MvYy4xLyogMj4vZGV2L251bGwgfHwgdHJ1ZQog
-ICAgcm0gLWYgb3NfZGVzYy9jLjEgMj4vZGV2L251bGwgfHwgdHJ1ZQogICAg
-cm1kaXIgY29uZmlncy9jLjEvc3RyaW5ncy8weDQwOSAyPi9kZXYvbnVsbCB8
-fCB0cnVlCiAgICBybWRpciBjb25maWdzL2MuMSAyPi9kZXYvbnVsbCB8fCB0
-cnVlCiAgICAKICAgICMgUmVtb3ZlIGZ1bmN0aW9uIGRpcmVjdG9yaWVzCiAg
-ICBmb3IgZnVuYyBpbiBmdW5jdGlvbnMvKjsgZG8KICAgICAgICBbIC1kICIk
-ZnVuYyIgXSAmJiBybWRpciAiJGZ1bmMiIDI+L2Rldi9udWxsIHx8IHRydWUK
-ICAgIGRvbmUKICAgIAogICAgIyBSZW1vdmUgc3RyaW5ncwogICAgcm1kaXIg
-c3RyaW5ncy8weDQwOSAyPi9kZXYvbnVsbCB8fCB0cnVlCiAgICAKICAgICMg
-UmVtb3ZlIGdhZGdldAogICAgY2QgL3N5cy9rZXJuZWwvY29uZmlnL3VzYl9n
-YWRnZXQKICAgIHJtZGlyICIkQ0ZHX0dBREdFVF9OQU1FIiAyPi9kZXYvbnVs
-bCB8fCB0cnVlCiAgICAKICAgICMgQ2xlYW4gc2hlbGwgZnJvbSBpbml0dGFi
-CiAgICBzZWQgLWkgJy90dHlHUzAvZCcgL2V0Yy9pbml0dGFiCiAgICBraWxs
-IC1IVVAgMSAyPi9kZXYvbnVsbCB8fCB0cnVlCiAgICAKICAgIGxvZyAiVGVh
-cmRvd24gY29tcGxldGUiCiAgICBsb2cgIlVTQiBwb3J0IGF2YWlsYWJsZSBm
-b3IgaG9zdCBtb2RlIgp9CgpzdGF0dXMoKSB7CiAgICBsb2FkX2NvbmZpZwog
-ICAgCiAgICAjIENoZWNrIGlmIGdsb2JhbGx5IGRpc2FibGVkCiAgICBpZiBb
-ICIkQ0ZHX0VOQUJMRUQiICE9ICIxIiBdOyB0aGVuCiAgICAgICAgZWNobyAi
-VVNCIEdhZGdldDogRGlzYWJsZWQgaW4gY29uZmlndXJhdGlvbiIKICAgICAg
-ICBlY2hvICJTdGF0dXM6IEluYWN0aXZlIChob3N0IG1vZGUgYXZhaWxhYmxl
-KSIKICAgICAgICBlY2hvICIiCiAgICAgICAgZWNobyAiVG8gZW5hYmxlOiB1
-Y2kgc2V0IHVzYmdhZGdldC51c2IuZW5hYmxlZD0nMScgJiYgdWNpIGNvbW1p
-dCIKICAgICAgICByZXR1cm4gMQogICAgZmkKICAgIAogICAgaWYgWyAtZCAi
-JENGR19HQURHRVRfUEFUSCIgXSAmJiBbIC1zICIke0NGR19HQURHRVRfUEFU
-SH0vVURDIiBdOyB0aGVuCiAgICAgICAgZWNobyAiVVNCIEdhZGdldDogJENG
-R19HQURHRVRfTkFNRSIKICAgICAgICBlY2hvICJTdGF0dXM6IEFjdGl2ZSAo
-ZGV2aWNlIG1vZGUpIgogICAgICAgIGVjaG8gIlVEQzogJChjYXQgIiR7Q0ZH
-X0dBREdFVF9QQVRIfS9VREMiKSIKICAgICAgICBlY2hvICIiCiAgICAgICAg
-ZWNobyAiRW5hYmxlZCBmdW5jdGlvbnM6IgogICAgICAgIGxzIC0xICIkQ0ZH
-X0NPTkZJR19QQVRIIiAyPi9kZXYvbnVsbCB8IGdyZXAgLXYgc3RyaW5ncyB8
-IHNlZCAncy9eLyAgLSAvJwogICAgICAgIAogICAgICAgICMgU2hvdyBBQ00g
-c3RhdHVzCiAgICAgICAgaWYgWyAiJENGR19BQ00iID0gIjEiIF07IHRoZW4K
-ICAgICAgICAgICAgZWNobyAiIgogICAgICAgICAgICBlY2hvICJTZXJpYWwg
-Y29uc29sZToiCiAgICAgICAgICAgIGlmIFsgLWMgL2Rldi90dHlHUzAgXTsg
-dGhlbgogICAgICAgICAgICAgICAgaWYgWyAiJENGR19BQ01fU0hFTEwiID0g
-IjEiIF07IHRoZW4KICAgICAgICAgICAgICAgICAgICBlY2hvICIgIC9kZXYv
-dHR5R1MwIC0gQXZhaWxhYmxlICh3aXRoIHNoZWxsKSIKICAgICAgICAgICAg
-ICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICBlY2hvICIgIC9kZXYvdHR5
-R1MwIC0gQXZhaWxhYmxlIChyYXcgVFRZKSIKICAgICAgICAgICAgICAgIGZp
-CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIGVjaG8gIiAgL2Rl
-di90dHlHUzAgLSBOb3QgZm91bmQiCiAgICAgICAgICAgIGZpCiAgICAgICAg
-ZmkKICAgICAgICAKICAgICAgICAjIFNob3cgbmV0d29yayBpbnRlcmZhY2Vz
-CiAgICAgICAgZWNobyAiIgogICAgICAgIGVjaG8gIk5ldHdvcmsgaW50ZXJm
-YWNlczoiCiAgICAgICAgZm9yIGlmbmFtZSBpbiAiJHtDRkdfRlVOQ1RJT05T
-X1BBVEh9Ii8qL2lmbmFtZTsgZG8KICAgICAgICAgICAgaWYgWyAtZiAiJGlm
-bmFtZSIgXTsgdGhlbgogICAgICAgICAgICAgICAgbG9jYWwgaWZhY2U9IiQo
-Y2F0ICIkaWZuYW1lIikiCiAgICAgICAgICAgICAgICBsb2NhbCBzdGF0ZT0i
-JChjYXQgL3N5cy9jbGFzcy9uZXQvJGlmYWNlL29wZXJzdGF0ZSAyPi9kZXYv
-bnVsbCB8fCBlY2hvIHVua25vd24pIgogICAgICAgICAgICAgICAgZWNobyAi
-ICAtICRpZmFjZSAoJHN0YXRlKSIKICAgICAgICAgICAgZmkKICAgICAgICBk
-b25lCiAgICAgICAgCiAgICAgICAgcmV0dXJuIDAKICAgIGVsc2UKICAgICAg
-ICBlY2hvICJVU0IgR2FkZ2V0OiAkQ0ZHX0dBREdFVF9OQU1FIgogICAgICAg
-IGVjaG8gIlN0YXR1czogSW5hY3RpdmUiCiAgICAgICAgZWNobyAiIgogICAg
-ICAgIGVjaG8gIlN0YXJ0IHdpdGg6IC9ldGMvaW5pdC5kL3VzYi1nYWRnZXQg
-c3RhcnQiCiAgICAgICAgcmV0dXJuIDEKICAgIGZpCn0KCiMgPT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PQojIE1haW4gRW50cnkgUG9pbnQKIyA9
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpjYXNlICIkezE6LX0i
-IGluCiAgICBzdGFydCkKICAgICAgICB0ZWFyZG93bl9nYWRnZXQKICAgICAg
-ICBzZXR1cF9nYWRnZXQKICAgICAgICA7OwogICAgc3RvcCkKICAgICAgICB0
-ZWFyZG93bl9nYWRnZXQKICAgICAgICA7OwogICAgcmVzdGFydCkKICAgICAg
-ICB0ZWFyZG93bl9nYWRnZXQKICAgICAgICBzZXR1cF9nYWRnZXQKICAgICAg
-ICA7OwogICAgc3RhdHVzKQogICAgICAgIHN0YXR1cwogICAgICAgIDs7CiAg
-ICAqKQogICAgICAgIGVjaG8gIlVzYWdlOiAkMCB7c3RhcnR8c3RvcHxyZXN0
-YXJ0fHN0YXR1c30iCiAgICAgICAgZWNobyAiIgogICAgICAgIGVjaG8gIlVu
-aXZlcnNhbCBVU0IgR2FkZ2V0IE1hbmFnZXIgZm9yIE9wZW5XcnQiCiAgICAg
-ICAgZWNobyAiQ29uZmlndXJlIHZpYTogdWNpIHNldCB1c2JnYWRnZXQuPG9w
-dGlvbj49PHZhbHVlPiIKICAgICAgICBleGl0IDEKICAgICAgICA7Owplc2Fj
-Cg==
+#!/bin/sh
+# Universal USB Gadget Manager for OpenWrt
+# Compatible with ash/busybox sh
+
+set -e
+
+# Load UCI library
+. /lib/functions.sh
+
+# ============================================================================
+# Configuration
+# ============================================================================
+
+CFG_ENABLED=""
+CFG_GADGET_NAME=""
+CFG_GADGET_PATH=""
+CFG_CONFIG_PATH=""
+CFG_FUNCTIONS_PATH=""
+
+CFG_VENDOR_ID=""
+CFG_PRODUCT_ID=""
+CFG_DEVICE_VERSION=""
+CFG_MANUFACTURER=""
+CFG_PRODUCT=""
+CFG_UDC_DEVICE=""
+
+CFG_RNDIS=""
+CFG_ECM=""
+CFG_NCM=""
+CFG_ACM=""
+CFG_UMS=""
+
+CFG_ACM_SHELL=""
+
+CFG_UMS_IMAGE=""
+CFG_UMS_SIZE=""
+CFG_UMS_READONLY=""
+
+load_config() {
+    config_load usbgadget
+    
+    # Global enable/disable
+    config_get_bool CFG_ENABLED usb enabled 1
+    
+    # Gadget name
+    config_get CFG_GADGET_NAME usb gadget_name "g1"
+    
+    # Paths
+    CFG_GADGET_PATH="/sys/kernel/config/usb_gadget/${CFG_GADGET_NAME}"
+    CFG_CONFIG_PATH="${CFG_GADGET_PATH}/configs/c.1"
+    CFG_FUNCTIONS_PATH="${CFG_GADGET_PATH}/functions"
+    
+    # USB Device IDs
+    config_get CFG_VENDOR_ID usb vendor_id "0x1d6b"
+    config_get CFG_PRODUCT_ID usb product_id "0x0104"
+    config_get CFG_DEVICE_VERSION usb device_version "0x0100"
+    config_get CFG_MANUFACTURER usb manufacturer "OpenWrt"
+    config_get CFG_PRODUCT usb product "USB Gadget"
+    config_get CFG_UDC_DEVICE usb udc_device ""
+    
+    # Functions (boolean)
+    config_get_bool CFG_RNDIS rndis enabled 0
+    config_get_bool CFG_ECM ecm enabled 0
+    config_get_bool CFG_NCM ncm enabled 0
+    config_get_bool CFG_ACM acm enabled 0
+    config_get_bool CFG_UMS ums enabled 0
+    
+    # ACM options
+    config_get_bool CFG_ACM_SHELL acm shell 1
+    
+    # UMS options
+    config_get CFG_UMS_IMAGE ums image_path "/var/lib/usb-gadget/storage.img"
+    config_get CFG_UMS_SIZE ums image_size "512M"
+    config_get_bool CFG_UMS_READONLY ums readonly 0
+}
+
+# ============================================================================
+# Logging
+# ============================================================================
+
+log() {
+    logger -t usb-gadget "$*"
+    echo "[$(date '+%H:%M:%S')] $*"
+}
+
+error() {
+    log "ERROR: $*"
+    exit 1
+}
+
+# ============================================================================
+# Utilities
+# ============================================================================
+
+get_serial_number() {
+    if [ -f /etc/machine-id ]; then
+        sha256sum < /etc/machine-id | cut -d' ' -f1 | cut -c1-16
+        return
+    fi
+    echo "$(date +%s)-$(shuf -i 1000-9999 -n 1)"
+}
+
+generate_mac() {
+    local prefix="$1"
+    local serial="$(get_serial_number)"
+    local hash="$(echo "${serial}${prefix}" | md5sum | cut -c1-12)"
+    
+    # Extract bytes
+    local b1="$(echo "$hash" | cut -c1-2)"
+    local b2="$(echo "$hash" | cut -c3-4)"
+    local b3="$(echo "$hash" | cut -c5-6)"
+    local b4="$(echo "$hash" | cut -c7-8)"
+    local b5="$(echo "$hash" | cut -c9-10)"
+    local b6="$(echo "$hash" | cut -c11-12)"
+    
+    # Set locally administered, unicast
+    b1="$(printf '%02x' $((0x${b1} & 0xfe | 0x02)))"
+    
+    echo "${b1}:${b2}:${b3}:${b4}:${b5}:${b6}"
+}
+
+find_udc() {
+    # Return configured UDC if set
+    if [ -n "$CFG_UDC_DEVICE" ]; then
+        echo "$CFG_UDC_DEVICE"
+        return
+    fi
+    
+    # Auto-detect UDC - works on ALL hardware
+    local udc="$(ls /sys/class/udc/ 2>/dev/null | head -1)"
+    
+    if [ -z "$udc" ]; then
+        error "No UDC device found. Is USB gadget support enabled?"
+    fi
+    
+    echo "$udc"
+}
+
+sysfs_write() {
+    local path="$1"
+    local value="$2"
+    echo "$value" > "$path" || error "Failed to write '$value' to $path"
+}
+
+# ============================================================================
+# USB Functions Setup
+# ============================================================================
+
+setup_rndis() {
+    log "Enabling RNDIS"
+    local func="${CFG_FUNCTIONS_PATH}/rndis.usb0"
+    
+    mkdir -p "$func"
+    sysfs_write "${func}/host_addr" "$(generate_mac rndis-host)"
+    sysfs_write "${func}/dev_addr" "$(generate_mac rndis-dev)"
+    ln -sf "$func" "${CFG_CONFIG_PATH}/"
+    
+    # Windows compatibility
+    sysfs_write "${CFG_GADGET_PATH}/os_desc/use" "1"
+    sysfs_write "${CFG_GADGET_PATH}/os_desc/b_vendor_code" "0xcd"
+    sysfs_write "${CFG_GADGET_PATH}/os_desc/qw_sign" "MSFT100"
+    sysfs_write "${func}/os_desc/interface.rndis/compatible_id" "RNDIS"
+    sysfs_write "${func}/os_desc/interface.rndis/sub_compatible_id" "5162001"
+    ln -sf "${CFG_CONFIG_PATH}" "${CFG_GADGET_PATH}/os_desc/"
+    
+    echo "+RNDIS"
+}
+
+setup_ecm() {
+    log "Enabling ECM"
+    local func="${CFG_FUNCTIONS_PATH}/ecm.usb0"
+    
+    mkdir -p "$func"
+    sysfs_write "${func}/host_addr" "$(generate_mac ecm-host)"
+    sysfs_write "${func}/dev_addr" "$(generate_mac ecm-dev)"
+    ln -sf "$func" "${CFG_CONFIG_PATH}/"
+    
+    echo "+ECM"
+}
+
+setup_ncm() {
+    log "Enabling NCM"
+    local func="${CFG_FUNCTIONS_PATH}/ncm.usb0"
+    
+    mkdir -p "$func"
+    sysfs_write "${func}/host_addr" "$(generate_mac ncm-host)"
+    sysfs_write "${func}/dev_addr" "$(generate_mac ncm-dev)"
+    ln -sf "$func" "${CFG_CONFIG_PATH}/"
+    
+    echo "+NCM"
+}
+
+setup_acm() {
+    log "Enabling ACM"
+    local func="${CFG_FUNCTIONS_PATH}/acm.GS0"
+    
+    mkdir -p "$func"
+    ln -sf "$func" "${CFG_CONFIG_PATH}/"
+    
+    # Manage shell in inittab
+    if [ "$CFG_ACM_SHELL" = "1" ]; then
+        log "Enabling serial shell on ttyGS0"
+        sed -i '/ttyGS0/d' /etc/inittab
+        echo "ttyGS0::askfirst:/usr/libexec/login.sh" >> /etc/inittab
+    else
+        log "ACM in raw TTY mode (removing shell from inittab)"
+        sed -i '/ttyGS0/d' /etc/inittab
+    fi
+    
+    kill -HUP 1 2>/dev/null || true
+    
+    echo "+ACM"
+}
+
+setup_ums() {
+    local image="$CFG_UMS_IMAGE"
+    
+    # Create image if doesn't exist
+    if [ ! -f "$image" ]; then
+        log "Creating storage image: $image ($CFG_UMS_SIZE)"
+        mkdir -p "$(dirname "$image")"
+        truncate -s "$CFG_UMS_SIZE" "$image" || \
+            dd if=/dev/zero of="$image" bs=1M count="${CFG_UMS_SIZE%M}"
+    fi
+    
+    log "Enabling UMS"
+    local func="${CFG_FUNCTIONS_PATH}/mass_storage.0"
+    
+    mkdir -p "$func"
+    sysfs_write "${func}/lun.0/ro" "$CFG_UMS_READONLY"
+    sysfs_write "${func}/lun.0/file" "$image"
+    ln -sf "$func" "${CFG_CONFIG_PATH}/"
+    
+    echo "+UMS"
+}
+
+# ============================================================================
+# Network Configuration
+# ============================================================================
+
+add_to_bridge() {
+    local ifname_file="$1"
+    
+    [ -f "$ifname_file" ] || return
+    
+    local iface="$(cat "$ifname_file")"
+    log "Adding $iface to bridge"
+    
+    # Add the inteface to bridge
+    uci -q del_list "network.@device[0].ports=$iface" 2>/dev/null || true
+    uci add_list "network.@device[0].ports=$iface"
+}
+
+setup_network() {
+    sleep 1
+    
+    [ "$CFG_RNDIS" = "1" ] && add_to_bridge "${CFG_FUNCTIONS_PATH}/rndis.usb0/ifname"
+    [ "$CFG_ECM" = "1" ] && add_to_bridge "${CFG_FUNCTIONS_PATH}/ecm.usb0/ifname"
+    [ "$CFG_NCM" = "1" ] && add_to_bridge "${CFG_FUNCTIONS_PATH}/ncm.usb0/ifname"
+    
+    uci commit network
+    /etc/init.d/network reload
+}
+
+# ============================================================================
+# Main Gadget Management
+# ============================================================================
+
+setup_gadget() {
+    # Load configuration
+    load_config
+    
+    # Check if gadget is enabled
+    if [ "$CFG_ENABLED" != "1" ]; then
+        log "USB Gadget is disabled in config (usb.enabled=0)"
+        log "USB port available for host mode"
+        return 0
+    fi
+    
+    log "Setting up USB gadget"
+    log "Gadget name: $CFG_GADGET_NAME"
+    log "Gadget path: $CFG_GADGET_PATH"
+    
+    # Prepare system
+    modprobe libcomposite || error "Failed to load libcomposite module"
+    
+    if ! mountpoint -q /sys/kernel/config; then
+        log "Mounting configfs"
+        mount -t configfs none /sys/kernel/config
+    fi
+    
+    # Create gadget directory
+    mkdir -p "$CFG_GADGET_PATH" || error "Failed to create gadget directory"
+    cd "$CFG_GADGET_PATH" || error "Cannot change directory"
+    
+    # Device descriptors
+    sysfs_write idVendor "$CFG_VENDOR_ID"
+    sysfs_write idProduct "$CFG_PRODUCT_ID"
+    sysfs_write bcdDevice "$CFG_DEVICE_VERSION"
+    
+    # Composite device class
+    sysfs_write bDeviceClass "0xEF"
+    sysfs_write bDeviceSubClass "0x02"
+    sysfs_write bDeviceProtocol "0x01"
+    
+    # Strings (USB descriptors)
+    mkdir -p strings/0x409
+    sysfs_write strings/0x409/serialnumber "$(get_serial_number)"
+    sysfs_write strings/0x409/manufacturer "$CFG_MANUFACTURER"
+    sysfs_write strings/0x409/product "$CFG_PRODUCT"
+    
+    # Configuration
+    mkdir -p "${CFG_CONFIG_PATH}/strings/0x409"
+    
+    local config_string=""
+    local has_wakeup=0
+    
+    # Setup enabled functions in order
+    # RNDIS must be first for Windows compatibility
+    if [ "$CFG_RNDIS" = "1" ]; then
+        config_string="${config_string}$(setup_rndis)"
+        has_wakeup=1
+    fi
+    
+    if [ "$CFG_ACM" = "1" ]; then
+        config_string="${config_string}$(setup_acm)"
+    fi
+    
+    if [ "$CFG_ECM" = "1" ] && [ "$CFG_NCM" != "1" ]; then
+        config_string="${config_string}$(setup_ecm)"
+        has_wakeup=1
+    fi
+    
+    if [ "$CFG_NCM" = "1" ]; then
+        config_string="${config_string}$(setup_ncm)"
+        has_wakeup=1
+    fi
+    
+    if [ "$CFG_UMS" = "1" ]; then
+        config_string="${config_string}$(setup_ums)"
+    fi
+    
+    # Check if any function was enabled
+    if [ -z "$config_string" ]; then
+        log "WARNING: No USB functions enabled"
+        log "Enable at least one function (rndis, ecm, ncm, acm, or ums)"
+        cd /sys/kernel/config/usb_gadget
+        rmdir "$CFG_GADGET_NAME" 2>/dev/null || true
+        return 1
+    fi
+    
+    # Configuration attributes
+    if [ "$has_wakeup" = "1" ]; then
+        sysfs_write "${CFG_CONFIG_PATH}/bmAttributes" "0xe0"
+    else
+        sysfs_write "${CFG_CONFIG_PATH}/bmAttributes" "0xc0"
+    fi
+    
+    sysfs_write "${CFG_CONFIG_PATH}/MaxPower" "250"
+    
+    # Set configuration string (remove leading +)
+    config_string="$(echo "$config_string" | sed 's/^+//')"
+    sysfs_write "${CFG_CONFIG_PATH}/strings/0x409/configuration" "$config_string"
+    
+    # Find and enable UDC
+    local udc="$(find_udc)"
+    log "Enabling UDC: $udc"
+    sysfs_write UDC "$udc"
+    
+    # Wait for ACM device if enabled
+    if [ "$CFG_ACM" = "1" ]; then
+        log "Waiting for ttyGS0 device..."
+        local i=0
+        while [ $i -lt 10 ]; do
+            [ -c /dev/ttyGS0 ] && break
+            sleep 1
+            i=$((i + 1))
+        done
+        
+        if [ ! -c /dev/ttyGS0 ]; then
+            log "Warning: /dev/ttyGS0 not found after 10s"
+        fi
+    fi
+    
+    # Configure network
+    setup_network
+    
+    log "USB Gadget setup complete"
+}
+
+teardown_gadget() {
+    log "Tearing down USB gadget"
+    
+    # Load config to get paths
+    load_config
+    
+    if [ ! -d "$CFG_GADGET_PATH" ]; then
+        log "Gadget not found, nothing to tear down"
+        return
+    fi
+    
+    cd "$CFG_GADGET_PATH" || return
+    
+    # Disable gadget
+    echo "" > UDC 2>/dev/null || true
+    
+    # Remove from network bridge
+    for ifname in functions/*/ifname; do
+        if [ -f "$ifname" ]; then
+            local iface="$(cat "$ifname")"
+            uci -q del_list "network.@device[0].ports=$iface" 2>/dev/null || true
+        fi
+    done
+    uci commit network
+    /etc/init.d/network reload
+    
+    # Remove configuration links
+    rm -f configs/c.1/* 2>/dev/null || true
+    rm -f os_desc/c.1 2>/dev/null || true
+    rmdir configs/c.1/strings/0x409 2>/dev/null || true
+    rmdir configs/c.1 2>/dev/null || true
+    
+    # Remove function directories
+    for func in functions/*; do
+        [ -d "$func" ] && rmdir "$func" 2>/dev/null || true
+    done
+    
+    # Remove strings
+    rmdir strings/0x409 2>/dev/null || true
+    
+    # Remove gadget
+    cd /sys/kernel/config/usb_gadget
+    rmdir "$CFG_GADGET_NAME" 2>/dev/null || true
+    
+    # Clean shell from inittab
+    sed -i '/ttyGS0/d' /etc/inittab
+    kill -HUP 1 2>/dev/null || true
+    
+    log "Teardown complete"
+    log "USB port available for host mode"
+}
+
+status() {
+    load_config
+    
+    # Check if globally disabled
+    if [ "$CFG_ENABLED" != "1" ]; then
+        echo "USB Gadget: Disabled in configuration"
+        echo "Status: Inactive (host mode available)"
+        echo ""
+        echo "To enable: uci set usbgadget.usb.enabled='1' && uci commit"
+        return 1
+    fi
+    
+    if [ -d "$CFG_GADGET_PATH" ] && [ -s "${CFG_GADGET_PATH}/UDC" ]; then
+        echo "USB Gadget: $CFG_GADGET_NAME"
+        echo "Status: Active (device mode)"
+        echo "UDC: $(cat "${CFG_GADGET_PATH}/UDC")"
+        echo ""
+        echo "Enabled functions:"
+        ls -1 "$CFG_CONFIG_PATH" 2>/dev/null | grep -v strings | sed 's/^/  - /'
+        
+        # Show ACM status
+        if [ "$CFG_ACM" = "1" ]; then
+            echo ""
+            echo "Serial console:"
+            if [ -c /dev/ttyGS0 ]; then
+                if [ "$CFG_ACM_SHELL" = "1" ]; then
+                    echo "  /dev/ttyGS0 - Available (with shell)"
+                else
+                    echo "  /dev/ttyGS0 - Available (raw TTY)"
+                fi
+            else
+                echo "  /dev/ttyGS0 - Not found"
+            fi
+        fi
+        
+        # Show network interfaces
+        echo ""
+        echo "Network interfaces:"
+        for ifname in "${CFG_FUNCTIONS_PATH}"/*/ifname; do
+            if [ -f "$ifname" ]; then
+                local iface="$(cat "$ifname")"
+                local state="$(cat /sys/class/net/$iface/operstate 2>/dev/null || echo unknown)"
+                echo "  - $iface ($state)"
+            fi
+        done
+        
+        return 0
+    else
+        echo "USB Gadget: $CFG_GADGET_NAME"
+        echo "Status: Inactive"
+        echo ""
+        echo "Start with: /etc/init.d/usb-gadget start"
+        return 1
+    fi
+}
+
+# ============================================================================
+# Main Entry Point
+# ============================================================================
+
+case "${1:-}" in
+    start)
+        teardown_gadget
+        setup_gadget
+        ;;
+    stop)
+        teardown_gadget
+        ;;
+    restart)
+        teardown_gadget
+        setup_gadget
+        ;;
+    status)
+        status
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart|status}"
+        echo ""
+        echo "Universal USB Gadget Manager for OpenWrt"
+        echo "Configure via: uci set usbgadget.<option>=<value>"
+        exit 1
+        ;;
+esac

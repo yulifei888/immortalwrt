@@ -1,21 +1,37 @@
-ewogICAgImx1Y2ktYXBwLXVzYi1nYWRnZXQiOiB7CiAgICAgICAgImRlc2Ny
-aXB0aW9uIjogIkdyYW50IGFjY2VzcyB0byBVU0IgR2FkZ2V0IGNvbmZpZ3Vy
-YXRpb24iLAogICAgICAgICJyZWFkIjogewogICAgICAgICAgICAidWNpIjog
-WwogICAgICAgICAgICAgICAgInVzYmdhZGdldCIKICAgICAgICAgICAgXSwK
-ICAgICAgICAgICAgInVidXMiOiB7CiAgICAgICAgICAgICAgICAic2Vydmlj
-ZSI6IFsKICAgICAgICAgICAgICAgICAgICAibGlzdCIKICAgICAgICAgICAg
-ICAgIF0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgImZpbGUiOiB7CiAg
-ICAgICAgICAgICAgICAiL2V0Yy9jb25maWcvdXNiZ2FkZ2V0IjogWyJyZWFk
-Il0sCiAgICAgICAgICAgICAgICAiL3N5cy9jbGFzcy91ZGMvKiI6IFsibGlz
-dCIsICJyZWFkIl0sCiAgICAgICAgICAgICAgICAiL3N5cy9rZXJuZWwvY29u
-ZmlnL3VzYl9nYWRnZXQvKiI6IFsibGlzdCIsICJyZWFkIl0KICAgICAgICAg
-ICAgfQogICAgICAgIH0sCiAgICAgICAgIndyaXRlIjogewogICAgICAgICAg
-ICAidWNpIjogWwogICAgICAgICAgICAgICAgInVzYmdhZGdldCIKICAgICAg
-ICAgICAgXSwKICAgICAgICAgICAgInVidXMiOiB7CiAgICAgICAgICAgICAg
-ICAic2VydmljZSI6IFsKICAgICAgICAgICAgICAgICAgICAibGlzdCIKICAg
-ICAgICAgICAgICAgIF0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgImZp
-bGUiOiB7CiAgICAgICAgICAgICAgICAiL2V0Yy9jb25maWcvdXNiZ2FkZ2V0
-IjogWyJ3cml0ZSJdLAogICAgICAgICAgICAgICAgIi9ldGMvaW5pdC5kL3Vz
-Yi1nYWRnZXQiOiBbImV4ZWMiXQogICAgICAgICAgICB9LAogICAgICAgICAg
-ICAiY2dpLWlvIjogWwogICAgICAgICAgICAgICAgImV4ZWMiCiAgICAgICAg
-ICAgIF0KICAgICAgICB9CiAgICB9Cn0K
+{
+    "luci-app-usb-gadget": {
+        "description": "Grant access to USB Gadget configuration",
+        "read": {
+            "uci": [
+                "usbgadget"
+            ],
+            "ubus": {
+                "service": [
+                    "list"
+                ]
+            },
+            "file": {
+                "/etc/config/usbgadget": ["read"],
+                "/sys/class/udc/*": ["list", "read"],
+                "/sys/kernel/config/usb_gadget/*": ["list", "read"]
+            }
+        },
+        "write": {
+            "uci": [
+                "usbgadget"
+            ],
+            "ubus": {
+                "service": [
+                    "list"
+                ]
+            },
+            "file": {
+                "/etc/config/usbgadget": ["write"],
+                "/etc/init.d/usb-gadget": ["exec"]
+            },
+            "cgi-io": [
+                "exec"
+            ]
+        }
+    }
+}

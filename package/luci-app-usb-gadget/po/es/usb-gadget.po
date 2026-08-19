@@ -1,106 +1,181 @@
-bXNnaWQgIiIKbXNnc3RyICIiCiJDb250ZW50LVR5cGU6IHRleHQvcGxhaW47
-IGNoYXJzZXQ9VVRGLThcbiIKIkxhbmd1YWdlOiBlc1xuIgoiTGFuZ3VhZ2Ut
-VGVhbTogU3BhbmlzaFxuIgoiTUlNRS1WZXJzaW9uOiAxLjBcbiIKIkNvbnRl
-bnQtVHJhbnNmZXItRW5jb2Rpbmc6IDhiaXRcbiIKIlBsdXJhbC1Gb3Jtczog
-bnBsdXJhbHM9MjsgcGx1cmFsPShuICE9IDEpO1xuIgoKIyBjb25maWcuanMK
-bXNnaWQgIlVTQiBHYWRnZXQgQ29uZmlndXJhdGlvbiIKbXNnc3RyICJDb25m
-aWd1cmFjacOzbiBVU0IgR2FkZ2V0IgoKbXNnaWQgIkNvbmZpZ3VyZSBVU0Ig
-Z2FkZ2V0IGZ1bmN0aW9ucy4gQ2hhbmdlcyB0YWtlIGVmZmVjdCBhZnRlciBz
-YXZpbmcgYW5kIHJlc3RhcnRpbmcgdGhlIHNlcnZpY2UuIgptc2dzdHIgIkNv
-bmZpZ3VyYSBsYXMgZnVuY2lvbmVzIFVTQiBnYWRnZXQuIExvcyBjYW1iaW9z
-IHRpZW5lbiBlZmVjdG8gdHJhcyBndWFyZGFyIHkgcmVpbmljaWFyIGVsIHNl
-cnZpY2lvLiIKCm1zZ2lkICJEZXZpY2UgU2V0dGluZ3MiCm1zZ3N0ciAiQ29u
-ZmlndXJhY2nDs24gZGVsIERpc3Bvc2l0aXZvIgoKbXNnaWQgIkVuYWJsZSBV
-U0IgR2FkZ2V0Igptc2dzdHIgIkhhYmlsaXRhciBVU0IgR2FkZ2V0IgoKbXNn
-aWQgIkRpc2FibGUgdG8gdXNlIFVTQiBwb3J0IGluIGhvc3QgbW9kZS4iCm1z
-Z3N0ciAiRGVzaGFiaWxpdGEgcGFyYSB1c2FyIGVsIHB1ZXJ0byBVU0IgZW4g
-bW9kbyBob3N0LiIKCm1zZ2lkICJFbnN1cmUgYWx0ZXJuYXRpdmUgYWNjZXNz
-LiIKbXNnc3RyICJBc2VndXJhIGFjY2VzbyBhbHRlcm5hdGl2by4iCgptc2dp
-ZCAiR2FkZ2V0IE5hbWUiCm1zZ3N0ciAiTm9tYnJlIGRlbCBHYWRnZXQiCgpt
-c2dpZCAiTWFudWZhY3R1cmVyIgptc2dzdHIgIkZhYnJpY2FudGUiCgptc2dp
-ZCAiUHJvZHVjdCIKbXNnc3RyICJQcm9kdWN0byIKCm1zZ2lkICJWZW5kb3Ig
-SUQiCm1zZ3N0ciAiSUQgZGVsIFByb3ZlZWRvciIKCm1zZ2lkICJNdXN0IGJl
-IGhleCBmb3JtYXQ6IDB4MTIzNCIKbXNnc3RyICJEZWJlIGVzdGFyIGVuIGZv
-cm1hdG8gaGV4YWRlY2ltYWw6IDB4MTIzNCIKCm1zZ2lkICJQcm9kdWN0IElE
-Igptc2dzdHIgIklEIGRlbCBQcm9kdWN0byIKCm1zZ2lkICJVREMgRGV2aWNl
-Igptc2dzdHIgIkRpc3Bvc2l0aXZvIFVEQyIKCm1zZ2lkICJBdXRvLWRldGVj
-dCIKbXNnc3RyICJBdXRvLWRldGVjdGFyIgoKbXNnaWQgIlJORElTIChXaW5k
-b3dzIEV0aGVybmV0KSIKbXNnc3RyICJSTkRJUyAoRXRoZXJuZXQgV2luZG93
-cykiCgptc2dpZCAiV2luZG93cy1jb21wYXRpYmxlIFVTQiBldGhlcm5ldC4g
-V29ya3Mgb24gYWxsIFdpbmRvd3MgdmVyc2lvbnMuIgptc2dzdHIgIkV0aGVy
-bmV0IFVTQiBjb21wYXRpYmxlIGNvbiBXaW5kb3dzLiBGdW5jaW9uYSBlbiB0
-b2RhcyBsYXMgdmVyc2lvbmVzIGRlIFdpbmRvd3MuIgoKbXNnaWQgIkVuYWJs
-ZSBSTkRJUyIKbXNnc3RyICJIYWJpbGl0YXIgUk5ESVMiCgptc2dpZCAiUGx1
-Zy1hbmQtcGxheSBvbiBXaW5kb3dzLiBBdXRvbWF0aWNhbGx5IGFkZHMgdG8g
-TEFOIGJyaWRnZS4iCm1zZ3N0ciAiUGx1Zy1hbmQtcGxheSBlbiBXaW5kb3dz
-LiBTZSBhw7FhZGUgYXV0b23DoXRpY2FtZW50ZSBhbCBwdWVudGUgTEFOLiIK
-Cm1zZ2lkICJFQ00gKG1hY09TL0xpbnV4IEV0aGVybmV0KSIKbXNnc3RyICJF
-Q00gKEV0aGVybmV0IG1hY09TL0xpbnV4KSIKCm1zZ2lkICJGb3IgbWFjT1Mg
-4omkMTAuMTQgYW5kIExpbnV4LiBEbyBub3QgZW5hYmxlIHdpdGggTkNNLiIK
-bXNnc3RyICJQYXJhIG1hY09TIOKJpDEwLjE0IHkgTGludXguIE5vIGhhYmls
-aXRhciBjb24gTkNNLiIKCm1zZ2lkICJFbmFibGUgRUNNIgptc2dzdHIgIkhh
-YmlsaXRhciBFQ00iCgptc2dpZCAiQ0RDIEV0aGVybmV0IGZvciBtYWNPUyBh
-bmQgTGludXguIERpc2FibGUgUk5ESVMgd2hlbiB1c2luZy4iCm1zZ3N0ciAi
-Q0RDIEV0aGVybmV0IHBhcmEgbWFjT1MgeSBMaW51eC4gRGVzaGFiaWxpdGEg
-Uk5ESVMgYWwgdXNhci4iCgptc2dpZCAiTkNNIChNb2Rlcm4gRXRoZXJuZXQp
-Igptc2dzdHIgIk5DTSAoRXRoZXJuZXQgTW9kZXJubykiCgptc2dpZCAiQmVz
-dCBwZXJmb3JtYW5jZS4gRm9yIFdpbmRvd3MgMTErLCBtYWNPUyDiiaUxMC4x
-NSwgTGludXguIgptc2dzdHIgIk1lam9yIHJlbmRpbWllbnRvLiBQYXJhIFdp
-bmRvd3MgMTErLCBtYWNPUyDiiaUxMC4xNSwgTGludXguIgoKbXNnaWQgIkVu
-YWJsZSBOQ00iCm1zZ3N0ciAiSGFiaWxpdGFyIE5DTSIKCm1zZ2lkICJNb2Rl
-cm4gaGlnaC1zcGVlZCBVU0IgZXRoZXJuZXQuIEJlc3QgY2hvaWNlIGZvciBu
-ZXcgc3lzdGVtcy4iCm1zZ3N0ciAiRXRoZXJuZXQgVVNCIG1vZGVybm8gZGUg
-YWx0YSB2ZWxvY2lkYWQuIE1lam9yIG9wY2nDs24gcGFyYSBzaXN0ZW1hcyBu
-dWV2b3MuIgoKbXNnaWQgIkFDTSAoU2VyaWFsIENvbnNvbGUpIgptc2dzdHIg
-IkFDTSAoQ29uc29sYSBTZXJpZSkiCgptc2dpZCAiUHJvdmlkZXMgL2Rldi90
-dHlBQ00wIG9uIGhvc3QuIEFjY2Vzczogc2NyZWVuIC9kZXYvdHR5QUNNMCAx
-MTUyMDAiCm1zZ3N0ciAiUHJvcG9yY2lvbmEgL2Rldi90dHlBQ00wIGVuIGVs
-IGhvc3QuIEFjY2Vzbzogc2NyZWVuIC9kZXYvdHR5QUNNMCAxMTUyMDAiCgpt
-c2dpZCAiRW5hYmxlIFNlcmlhbCBDb25zb2xlIgptc2dzdHIgIkhhYmlsaXRh
-ciBDb25zb2xhIFNlcmllIgoKbXNnaWQgIkVuYWJsZSBMb2dpbiBTaGVsbCIK
-bXNnc3RyICJIYWJpbGl0YXIgU2hlbGwgZGUgTG9naW4iCgptc2dpZCAiUHJv
-dmlkZSBzaGVsbCBhY2Nlc3MuIERpc2FibGUgZm9yIHJhdyBUVFkuIgptc2dz
-dHIgIlByb3BvcmNpb25hIGFjY2VzbyBzaGVsbC4gRGVzaGFiaWxpdGEgcGFy
-YSBUVFkgc2luIHByb2Nlc2FyLiIKCm1zZ2lkICJDb25uZWN0aW9uIEluZm8i
-Cm1zZ3N0ciAiSW5mb3JtYWNpw7NuIGRlIENvbmV4acOzbiIKCm1zZ2lkICJN
-YXNzIFN0b3JhZ2UiCm1zZ3N0ciAiQWxtYWNlbmFtaWVudG8gTWFzaXZvIgoK
-bXNnaWQgIkV4cG9zZSBzdG9yYWdlIGltYWdlIGFzIFVTQiBkcml2ZS4gRG9l
-cyBub3QgcHJvdmlkZSBhY2Nlc3MgdG8gdGhlIGRldmljZS4iCm1zZ3N0ciAi
-RXhwb25lIGltYWdlbiBkZSBhbG1hY2VuYW1pZW50byBjb21vIHVuaWRhZCBV
-U0IuIE5vIHByb3BvcmNpb25hIGFjY2VzbyBhbCBkaXNwb3NpdGl2by4iCgpt
-c2dpZCAiRW5hYmxlIE1hc3MgU3RvcmFnZSIKbXNnc3RyICJIYWJpbGl0YXIg
-QWxtYWNlbmFtaWVudG8gTWFzaXZvIgoKbXNnaWQgIkltYWdlIFBhdGgiCm1z
-Z3N0ciAiUnV0YSBkZSBsYSBJbWFnZW4iCgptc2dpZCAiRmlsZSB3aWxsIGJl
-IGNyZWF0ZWQgYXV0b21hdGljYWxseSBpZiBpdCBkb2Vzbid0IGV4aXN0LiIK
-bXNnc3RyICJFbCBhcmNoaXZvIHNlIGNyZWFyw6EgYXV0b23DoXRpY2FtZW50
-ZSBzaSBubyBleGlzdGUuIgoKbXNnaWQgIkltYWdlIFNpemUiCm1zZ3N0ciAi
-VGFtYcOxbyBkZSBsYSBJbWFnZW4iCgptc2dpZCAiVXNlZCB3aGVuIGNyZWF0
-aW5nIChlLmcuLCA1MTJNLCAxRywgMkcpIgptc2dzdHIgIlNlIHVzYSBhbCBj
-cmVhciAoZWouLCA1MTJNLCAxRywgMkcpIgoKbXNnaWQgIlJlYWQtT25seSIK
-bXNnc3RyICJTb2xvIExlY3R1cmEiCgptc2dpZCAiTW91bnQgYXMgcmVhZC1v
-bmx5IG9uIHRoZSBob3N0IGNvbXB1dGVyIgptc2dzdHIgIk1vbnRhciBjb21v
-IHNvbG8gbGVjdHVyYSBlbiBlbCBvcmRlbmFkb3IgaG9zdCIKCm1zZ2lkICJD
-b25maWd1cmF0aW9uIHNhdmVkLiBSZXN0YXJ0aW5nIFVTQiBHYWRnZXQgc2Vy
-dmljZS4uLiIKbXNnc3RyICJDb25maWd1cmFjacOzbiBndWFyZGFkYS4gUmVp
-bmljaWFuZG8gc2VydmljaW8gVVNCIEdhZGdldC4uLiIKCm1zZ2lkICJVU0Ig
-R2FkZ2V0IHNlcnZpY2UgcmVzdGFydGVkIHN1Y2Nlc3NmdWxseSIKbXNnc3Ry
-ICJTZXJ2aWNpbyBVU0IgR2FkZ2V0IHJlaW5pY2lhZG8gZXhpdG9zYW1lbnRl
-IgoKIyBvdmVydmlldy5qcwptc2dpZCAiR2FkZ2V0IFN0YXR1cyIKbXNnc3Ry
-ICJFc3RhZG8gZGVsIEdhZGdldCIKCm1zZ2lkICJBY3RpdmUgKERldmljZSBN
-b2RlKSIKbXNnc3RyICJBY3Rpdm8gKE1vZG8gRGlzcG9zaXRpdm8pIgoKbXNn
-aWQgIkRpc2FibGVkIChIb3N0IE1vZGUpIgptc2dzdHIgIkRlc2hhYmlsaXRh
-ZG8gKE1vZG8gSG9zdCkiCgptc2dpZCAiRW5hYmxlZCBGdW5jdGlvbnMiCm1z
-Z3N0ciAiRnVuY2lvbmVzIEhhYmlsaXRhZGFzIgoKbXNnaWQgIk5vbmUiCm1z
-Z3N0ciAiTmluZ3VuYSIKCm1zZ2lkICJVU0IgQ29udHJvbGxlciIKbXNnc3Ry
-ICJDb250cm9sYWRvciBVU0IiCgptc2dpZCAiTmV0d29yayBJbnRlcmZhY2Vz
-Igptc2dzdHIgIkludGVyZmFjZXMgZGUgUmVkIgoKbXNnaWQgIlVTQiBHYWRn
-ZXQgU3RhdHVzIgptc2dzdHIgIkVzdGFkbyBVU0IgR2FkZ2V0IgoKbXNnaWQg
-IlZpZXcgY3VycmVudCBVU0IgZ2FkZ2V0IGNvbmZpZ3VyYXRpb24gYW5kIHN0
-YXR1cyIKbXNnc3RyICJWZXIgY29uZmlndXJhY2nDs24geSBlc3RhZG8gYWN0
-dWFsIGRlbCBVU0IgZ2FkZ2V0IgoKbXNnaWQgIkN1cnJlbnQgU3RhdHVzIgpt
-c2dzdHIgIkVzdGFkbyBBY3R1YWwiCgptc2dpZCAiUmVzdGFydGluZyBzZXJ2
-aWNlLi4uIgptc2dzdHIgIlJlaW5pY2lhbmRvIHNlcnZpY2lvLi4uIgoKbXNn
-aWQgIlBsZWFzZSB3YWl0Li4uIgptc2dzdHIgIlBvciBmYXZvciBlc3BlcmEu
-Li4iCgptc2dpZCAiRmFpbGVkIHRvIHJlc3RhcnQ6ICVzIgptc2dzdHIgIkVy
-cm9yIGFsIHJlaW5pY2lhcjogJXMiCgptc2dpZCAiUmVzdGFydCBTZXJ2aWNl
-Igptc2dzdHIgIlJlaW5pY2lhciBTZXJ2aWNpbyIK
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# config.js
+msgid "USB Gadget Configuration"
+msgstr "Configuración USB Gadget"
+
+msgid "Configure USB gadget functions. Changes take effect after saving and restarting the service."
+msgstr "Configura las funciones USB gadget. Los cambios tienen efecto tras guardar y reiniciar el servicio."
+
+msgid "Device Settings"
+msgstr "Configuración del Dispositivo"
+
+msgid "Enable USB Gadget"
+msgstr "Habilitar USB Gadget"
+
+msgid "Disable to use USB port in host mode."
+msgstr "Deshabilita para usar el puerto USB en modo host."
+
+msgid "Ensure alternative access."
+msgstr "Asegura acceso alternativo."
+
+msgid "Gadget Name"
+msgstr "Nombre del Gadget"
+
+msgid "Manufacturer"
+msgstr "Fabricante"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Vendor ID"
+msgstr "ID del Proveedor"
+
+msgid "Must be hex format: 0x1234"
+msgstr "Debe estar en formato hexadecimal: 0x1234"
+
+msgid "Product ID"
+msgstr "ID del Producto"
+
+msgid "UDC Device"
+msgstr "Dispositivo UDC"
+
+msgid "Auto-detect"
+msgstr "Auto-detectar"
+
+msgid "RNDIS (Windows Ethernet)"
+msgstr "RNDIS (Ethernet Windows)"
+
+msgid "Windows-compatible USB ethernet. Works on all Windows versions."
+msgstr "Ethernet USB compatible con Windows. Funciona en todas las versiones de Windows."
+
+msgid "Enable RNDIS"
+msgstr "Habilitar RNDIS"
+
+msgid "Plug-and-play on Windows. Automatically adds to LAN bridge."
+msgstr "Plug-and-play en Windows. Se añade automáticamente al puente LAN."
+
+msgid "ECM (macOS/Linux Ethernet)"
+msgstr "ECM (Ethernet macOS/Linux)"
+
+msgid "For macOS ≤10.14 and Linux. Do not enable with NCM."
+msgstr "Para macOS ≤10.14 y Linux. No habilitar con NCM."
+
+msgid "Enable ECM"
+msgstr "Habilitar ECM"
+
+msgid "CDC Ethernet for macOS and Linux. Disable RNDIS when using."
+msgstr "CDC Ethernet para macOS y Linux. Deshabilita RNDIS al usar."
+
+msgid "NCM (Modern Ethernet)"
+msgstr "NCM (Ethernet Moderno)"
+
+msgid "Best performance. For Windows 11+, macOS ≥10.15, Linux."
+msgstr "Mejor rendimiento. Para Windows 11+, macOS ≥10.15, Linux."
+
+msgid "Enable NCM"
+msgstr "Habilitar NCM"
+
+msgid "Modern high-speed USB ethernet. Best choice for new systems."
+msgstr "Ethernet USB moderno de alta velocidad. Mejor opción para sistemas nuevos."
+
+msgid "ACM (Serial Console)"
+msgstr "ACM (Consola Serie)"
+
+msgid "Provides /dev/ttyACM0 on host. Access: screen /dev/ttyACM0 115200"
+msgstr "Proporciona /dev/ttyACM0 en el host. Acceso: screen /dev/ttyACM0 115200"
+
+msgid "Enable Serial Console"
+msgstr "Habilitar Consola Serie"
+
+msgid "Enable Login Shell"
+msgstr "Habilitar Shell de Login"
+
+msgid "Provide shell access. Disable for raw TTY."
+msgstr "Proporciona acceso shell. Deshabilita para TTY sin procesar."
+
+msgid "Connection Info"
+msgstr "Información de Conexión"
+
+msgid "Mass Storage"
+msgstr "Almacenamiento Masivo"
+
+msgid "Expose storage image as USB drive. Does not provide access to the device."
+msgstr "Expone imagen de almacenamiento como unidad USB. No proporciona acceso al dispositivo."
+
+msgid "Enable Mass Storage"
+msgstr "Habilitar Almacenamiento Masivo"
+
+msgid "Image Path"
+msgstr "Ruta de la Imagen"
+
+msgid "File will be created automatically if it doesn't exist."
+msgstr "El archivo se creará automáticamente si no existe."
+
+msgid "Image Size"
+msgstr "Tamaño de la Imagen"
+
+msgid "Used when creating (e.g., 512M, 1G, 2G)"
+msgstr "Se usa al crear (ej., 512M, 1G, 2G)"
+
+msgid "Read-Only"
+msgstr "Solo Lectura"
+
+msgid "Mount as read-only on the host computer"
+msgstr "Montar como solo lectura en el ordenador host"
+
+msgid "Configuration saved. Restarting USB Gadget service..."
+msgstr "Configuración guardada. Reiniciando servicio USB Gadget..."
+
+msgid "USB Gadget service restarted successfully"
+msgstr "Servicio USB Gadget reiniciado exitosamente"
+
+# overview.js
+msgid "Gadget Status"
+msgstr "Estado del Gadget"
+
+msgid "Active (Device Mode)"
+msgstr "Activo (Modo Dispositivo)"
+
+msgid "Disabled (Host Mode)"
+msgstr "Deshabilitado (Modo Host)"
+
+msgid "Enabled Functions"
+msgstr "Funciones Habilitadas"
+
+msgid "None"
+msgstr "Ninguna"
+
+msgid "USB Controller"
+msgstr "Controlador USB"
+
+msgid "Network Interfaces"
+msgstr "Interfaces de Red"
+
+msgid "USB Gadget Status"
+msgstr "Estado USB Gadget"
+
+msgid "View current USB gadget configuration and status"
+msgstr "Ver configuración y estado actual del USB gadget"
+
+msgid "Current Status"
+msgstr "Estado Actual"
+
+msgid "Restarting service..."
+msgstr "Reiniciando servicio..."
+
+msgid "Please wait..."
+msgstr "Por favor espera..."
+
+msgid "Failed to restart: %s"
+msgstr "Error al reiniciar: %s"
+
+msgid "Restart Service"
+msgstr "Reiniciar Servicio"
